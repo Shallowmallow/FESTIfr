@@ -1,0 +1,21 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Digne ; id _21 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	d_estime ; id _22 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	Avide ; id _23 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	de ; id _24 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	gloire ; id _25 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	Altéré ; id _26 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	de ; id _27 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	sang ; id _28 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	Je ; id _29 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	suis ; id _30 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	mécontent ; id _31 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	de ; id _32 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	moi ; id _33 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	Faible ; id _34 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	d_esprit ; id _35 ; pos_index 12 ; pos_index_score 0 ; pos NAM ; 
+	0.00000e+00 26 	et ; id _36 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	de ; id _37 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	corps ; id _38 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

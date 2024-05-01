@@ -1,0 +1,15 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Flots ; id _9 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	profonds ; id _10 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	redoutés ; id _11 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	des ; id _12 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	mères ; id _13 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	à ; id _14 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	genoux ; id _15 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	parenthèse ; id _16 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	ouvrante ; id _17 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	Hugo ; id _18 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	parenthèse ; id _19 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	fermante ; id _20 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; pbreak B ; 

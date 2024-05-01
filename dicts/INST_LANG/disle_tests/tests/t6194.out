@@ -1,0 +1,6 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	quand ; id _4 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	reviendra_t ; id _5 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	il ; id _6 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; pbreak B ; 

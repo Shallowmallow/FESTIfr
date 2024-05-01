@@ -1,0 +1,10 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	C_est ; id _9 ; pos_index 9 ; pos_index_score 0 ; pos AUX ; 
+	0.00000e+00 26 	son ; id _10 ; pos_index 5 ; pos_index_score 0 ; pos ADJ:pos ; 
+	0.00000e+00 26 	projet ; id _11 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _12 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	capter ; id _13 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	votre ; id _14 ; pos_index 5 ; pos_index_score 0 ; pos ADJ:pos ; 
+	0.00000e+00 26 	confiance ; id _15 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

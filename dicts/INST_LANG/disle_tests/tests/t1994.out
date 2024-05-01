@@ -1,0 +1,12 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Pas ; id _10 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	plus ; id _11 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	difficile ; id _12 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	que ; id _13 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	cela ; id _14 ; pos_index 16 ; pos_index_score 0 ; pos PRO:dem ; 
+	0.00000e+00 26 	Il ; id _15 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	fallait ; id _16 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	y ; id _17 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	penser ; id _18 ; pos_index 22 ; pos_index_score 0 ; pos VER ; pbreak B ; 

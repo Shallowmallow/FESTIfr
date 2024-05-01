@@ -1,0 +1,10 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	ceci ; id _8 ; pos_index 16 ; pos_index_score 0 ; pos PRO:dem ; 
+	0.00000e+00 26 	dépeciez ; id _9 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	gibecière ; id _10 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	monoecie ; id _11 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	poecile ; id _12 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	satisfecit ; id _13 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	ce_ci ; id _14 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; pbreak B ; 

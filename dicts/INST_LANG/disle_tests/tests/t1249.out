@@ -1,0 +1,22 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Il_y_a ; id _22 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	de ; id _23 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	certaines ; id _24 ; pos_index 2 ; pos_index_score 0 ; pos ADJ:ind ; 
+	0.00000e+00 26 	choses ; id _25 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	sur ; id _26 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	quoi ; id _27 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	on ; id _28 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	se ; id _29 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	trouve ; id _30 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	disposé ; id _31 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	à ; id _32 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	souffler ; id _33 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	du ; id _34 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	bonheur ; id _35 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	comme ; id _36 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	du ; id _37 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	temps ; id _38 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	des ; id _39 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	fées ; id _40 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

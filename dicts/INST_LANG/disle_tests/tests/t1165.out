@@ -1,0 +1,13 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	couvert ; id _12 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	d_un ; id _13 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	poil ; id _14 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	grisâtre ; id _15 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	laineux ; id _16 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	mat ; id _17 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	et ; id _18 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	doux ; id _19 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	au ; id _20 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	toucher ; id _21 ; pos_index 22 ; pos_index_score 0 ; pos VER ; pbreak B ; 

@@ -1,0 +1,9 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	ces ; id _7 ; pos_index 1 ; pos_index_score 0 ; pos ADJ:dem ; 
+	0.00000e+00 26 	huit ; id _8 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	hommes ; id _9 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	et ; id _10 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	dix_huit ; id _11 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	chevaux ; id _12 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

@@ -1,0 +1,20 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Quoi ; id _20 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	mes ; id _21 ; pos_index 5 ; pos_index_score 0 ; pos ADJ:pos ; 
+	0.00000e+00 26 	plus ; id _22 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	chers ; id _23 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	amis ; id _24 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	quoi ; id _25 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	Cinna ; id _26 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	quoi ; id _27 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	Maxime ; id _28 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	Les ; id _29 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	deux ; id _30 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	que ; id _31 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	j_honorais ; id _32 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	d_une ; id _33 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	si ; id _34 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	haute ; id _35 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	estime ; id _36 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

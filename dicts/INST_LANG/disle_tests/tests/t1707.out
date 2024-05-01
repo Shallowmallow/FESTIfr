@@ -1,0 +1,12 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	quarante ; id _4 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	deux ; id _5 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	millions ; id _6 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	douze ; id _7 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	mille ; id _8 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	quatre ; id _9 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	cent ; id _10 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	cinquante ; id _11 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	six ; id _12 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; pbreak B ; 

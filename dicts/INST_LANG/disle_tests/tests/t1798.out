@@ -1,0 +1,7 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	six ; id _5 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	rue ; id _6 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	pierre ; id _7 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	perrat ; id _8 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; pbreak B ; 

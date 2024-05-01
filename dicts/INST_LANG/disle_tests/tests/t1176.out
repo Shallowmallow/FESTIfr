@@ -1,0 +1,8 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	De ; id _6 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	celui_ci ; id _7 ; pos_index 16 ; pos_index_score 0 ; pos PRO:dem ; 
+	0.00000e+00 26 	allons ; id _8 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	à ; id _9 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	celui_là ; id _10 ; pos_index 16 ; pos_index_score 0 ; pos PRO:dem ; pbreak B ; 

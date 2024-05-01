@@ -1,0 +1,7 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	l_achat ; id _6 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	et ; id _7 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	la ; id _8 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	vente ; id _9 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

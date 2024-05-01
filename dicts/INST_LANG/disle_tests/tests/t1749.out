@@ -1,0 +1,25 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Les ; id _24 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	prédictions ; id _25 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	les ; id _26 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	plus ; id _27 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	conservatrices ; id _28 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	chiffrent ; id _29 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	à ; id _30 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	dix ; id _31 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	milliards ; id _32 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	le ; id _33 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	nombre ; id _34 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	d_êtres ; id _35 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	humains ; id _36 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	avant ; id _37 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	la ; id _38 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	fin ; id _39 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	du ; id _40 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	vingt_et_unième ; id _41 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	siècle ; id _42 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	une ; id _43 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	croissance ; id _44 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	exponentielle ; id _45 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; pbreak B ; 

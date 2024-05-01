@@ -1,0 +1,12 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Autant ; id _10 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	faire ; id _11 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	cela ; id _12 ; pos_index 16 ; pos_index_score 0 ; pos PRO:dem ; 
+	0.00000e+00 26 	sur ; id _13 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	le ; id _14 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	champ ; id _15 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	que ; id _16 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	de ; id _17 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	différer ; id _18 ; pos_index 22 ; pos_index_score 0 ; pos VER ; pbreak B ; 

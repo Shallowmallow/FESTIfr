@@ -1,0 +1,17 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Un ; id _16 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	tiret ; id _17 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	est ; id _18 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	aussi ; id _19 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	une ; id _20 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	pièce ; id _21 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _22 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	bois ; id _23 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	qui ; id _24 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	sert ; id _25 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	d_arc_boutant ; id _26 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	dans ; id _27 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	un ; id _28 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	moulin ; id _29 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

@@ -1,0 +1,21 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	c ; id _18 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	cédille ; id _19 ; pos_index 16 ; pos_index_score 0 ; pos PRO:dem ; 
+	0.00000e+00 26 	majuscule ; id _20 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	avait ; id _22 ; pos_index 9 ; pos_index_score 0 ; pos AUX ; 
+	0.00000e+00 26 	été ; id _23 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	des ; id _24 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	deux ; id _25 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	parts ; id _26 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	un ; id _27 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	mariage ; id _28 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _29 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	passion ; id _30 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _31 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	la ; id _32 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	tête ; id _33 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	et ; id _34 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	des ; id _35 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	sens ; id _36 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

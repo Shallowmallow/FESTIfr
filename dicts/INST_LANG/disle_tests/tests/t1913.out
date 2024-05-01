@@ -1,0 +1,23 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	entre ; id _18 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	le ; id _19 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	nom ; id _20 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	et ; id _21 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	l_adjectif ; id _22 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	qui ; id _23 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	le ; id _24 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	précède ; id _25 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	comme ; id _26 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	un ; id _27 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	grand ; id _28 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	arbre ; id _29 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	ou ; id _30 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	petits ; id _31 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	enfants ; id _32 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	t ; id _33 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	mille ; id _34 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	neuf ; id _35 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	cent ; id _36 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	quatorze ; id _37 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; pbreak B ; 

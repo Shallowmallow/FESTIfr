@@ -1,0 +1,14 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	je ; id _13 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	l_ai ; id _14 ; pos_index 9 ; pos_index_score 0 ; pos AUX ; 
+	0.00000e+00 26 	chantée ; id _15 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	bien ; id _16 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	souvent ; id _17 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	en ; id _18 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	leurs ; id _19 ; pos_index 5 ; pos_index_score 0 ; pos ADJ:pos ; 
+	0.00000e+00 26 	aspects ; id _20 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	diurnes ; id _21 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	et ; id _22 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	nocturnes ; id _23 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; pbreak B ; 

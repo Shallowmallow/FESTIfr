@@ -1,0 +1,6 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	ainsi ; id _5 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	que ; id _6 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	l_inverse ; id _7 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; pbreak B ; 

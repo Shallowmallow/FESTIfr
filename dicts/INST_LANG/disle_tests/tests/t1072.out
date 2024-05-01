@@ -1,0 +1,12 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	bla_bla ; id _7 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	le ; id _8 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	vingtième ; id _9 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	parenthèse ; id _10 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	ouvrante ; id _11 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	Le ; id _12 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	monde ; id _13 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	parenthèse ; id _14 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	fermante ; id _15 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; pbreak B ; 

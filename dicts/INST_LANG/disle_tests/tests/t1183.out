@@ -1,0 +1,6 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	de ; id _4 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	tout ; id _5 ; pos_index 2 ; pos_index_score 0 ; pos ADJ:ind ; 
+	0.00000e+00 26 	coeur ; id _6 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

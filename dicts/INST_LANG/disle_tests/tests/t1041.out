@@ -1,0 +1,14 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Ah ; id _14 ; pos_index 14 ; pos_index_score 0 ; pos ONO ; 
+	0.00000e+00 26 	qu_il ; id _15 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	est ; id _16 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	doucereux ; id _17 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	c_est ; id _18 ; pos_index 9 ; pos_index_score 0 ; pos AUX ; 
+	0.00000e+00 26 	tout ; id _19 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	sucre ; id _20 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	et ; id _21 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	tout ; id _22 ; pos_index 2 ; pos_index_score 0 ; pos ADJ:ind ; 
+	0.00000e+00 26 	miel ; id _23 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	Molière ; id _24 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; pbreak B ; 

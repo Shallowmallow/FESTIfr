@@ -1,0 +1,5 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	et ; id _4 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	L_Alambra ; id _5 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; pbreak B ; 

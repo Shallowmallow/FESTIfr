@@ -1,0 +1,10 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Flots ; id _8 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	profonds ; id _9 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	redoutés ; id _10 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	des ; id _11 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	mères ; id _12 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	à ; id _13 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	genoux ; id _14 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

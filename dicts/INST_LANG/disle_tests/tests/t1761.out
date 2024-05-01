@@ -1,0 +1,13 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Qui ; id _13 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	a ; id _14 ; pos_index 9 ; pos_index_score 0 ; pos AUX ; 
+	0.00000e+00 26 	dit ; id _15 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	il ; id _16 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	n_y_a ; id _17 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	pas ; id _18 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	de ; id _19 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	réponse ; id _20 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	sans ; id _21 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	question ; id _22 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

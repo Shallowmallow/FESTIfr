@@ -1,0 +1,14 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	la ; id _13 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	croissance ; id _14 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	économique ; id _15 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	demeurera ; id _16 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	toujours ; id _17 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	la ; id _18 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	seule ; id _19 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	véritable ; id _20 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	source ; id _21 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _22 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	mieux_être ; id _23 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

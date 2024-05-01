@@ -1,0 +1,11 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	dites ; id _9 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	moi ; id _10 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	en_quoi ; id _11 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	je ; id _12 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	puis ; id _13 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	vous ; id _14 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	servir ; id _15 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	guillemet ; id _17 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

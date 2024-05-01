@@ -1,0 +1,10 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	courant ; id _6 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	deux ; id _7 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	mille ; id _8 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	vingt ; id _9 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	virgule ; id _10 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	bla_bla ; id _11 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	bla ; id _12 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; pbreak B ; 

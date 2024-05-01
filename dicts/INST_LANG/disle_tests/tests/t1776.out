@@ -1,0 +1,20 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	le ; id _19 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	point ; id _20 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	sensible ; id _21 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	se ; id _22 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	situe ; id _23 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	à ; id _24 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	l_articulation ; id _25 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	entre ; id _26 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	le ; id _27 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	contenu ; id _28 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	à ; id _29 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	enseigner ; id _30 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	et ; id _31 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	le ; id _32 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	savoir ; id _33 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	didactique ; id _34 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	lui_même ; id _35 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; pbreak B ; 

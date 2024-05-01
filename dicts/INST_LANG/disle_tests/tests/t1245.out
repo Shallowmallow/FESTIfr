@@ -1,0 +1,20 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	En ; id _19 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	bonne ; id _20 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	fois ; id _21 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	ce ; id _22 ; pos_index 1 ; pos_index_score 0 ; pos ADJ:dem ; 
+	0.00000e+00 26 	point ; id _23 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	sur ; id _24 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	quoi ; id _25 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	vous ; id _26 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	me ; id _27 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	pressez ; id _28 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	est ; id _29 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	une ; id _30 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	affaire ; id _31 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	aussi ; id _32 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	qui ; id _33 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	m_embarasse ; id _34 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	assez ; id _35 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; pbreak B ; 

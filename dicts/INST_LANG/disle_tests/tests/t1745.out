@@ -1,0 +1,20 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Votre ; id _5 ; pos_index 5 ; pos_index_score 0 ; pos ADJ:pos ; 
+	0.00000e+00 26 	sé ; id _7 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	minuscule ; id _8 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	hache ; id _11 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	minuscule ; id _12 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	o ; id _15 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	minuscule ; id _16 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	i ; id _19 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	minuscule ; id _20 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	iks ; id _23 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	minuscule ; id _24 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	crochet ; id _27 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	ouvrant ; id _28 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	tiret ; id _31 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	un ; id _34 ; pos_index 17 ; pos_index_score 0 ; pos PRO:ind ; 
+	0.00000e+00 26 	pour ; id _35 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	abandonner ; id _36 ; pos_index 22 ; pos_index_score 0 ; pos VER ; pbreak B ; 

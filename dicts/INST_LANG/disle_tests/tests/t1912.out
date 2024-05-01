@@ -1,0 +1,28 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	l_omission ; id _24 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	d_une ; id _25 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	telle ; id _26 ; pos_index 2 ; pos_index_score 0 ; pos ADJ:ind ; 
+	0.00000e+00 26 	liaison ; id _27 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	est ; id _28 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	obligatoire ; id _29 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	quel ; id _30 ; pos_index 3 ; pos_index_score 0 ; pos ADJ:int ; 
+	0.00000e+00 26 	que ; id _31 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	soit ; id _32 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	le ; id _33 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	registre ; id _34 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _35 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	langue ; id _36 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	parenthèse ; id _37 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	ouvrante ; id _38 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	de ; id _39 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	la ; id _40 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	langue ; id _41 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	soutenue ; id _42 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	à ; id _43 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	la ; id _44 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	langue ; id _45 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	vulgaire ; id _46 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	parenthèse ; id _47 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	fermante ; id _48 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; pbreak B ; 

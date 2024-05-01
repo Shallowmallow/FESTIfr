@@ -1,0 +1,8 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	ton ; id _8 ; pos_index 5 ; pos_index_score 0 ; pos ADJ:pos ; 
+	0.00000e+00 26 	mieux_être ; id _9 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	je ; id _10 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	m_en ; id _11 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	fous ; id _12 ; pos_index 22 ; pos_index_score 0 ; pos VER ; pbreak B ; 

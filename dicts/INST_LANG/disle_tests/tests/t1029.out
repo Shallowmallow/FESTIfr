@@ -1,0 +1,19 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	point ; id _8 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	virgule ; id _9 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	attention ; id _10 ; pos_index 14 ; pos_index_score 0 ; pos ONO ; 
+	0.00000e+00 26 	requise ; id _11 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	arobase ; id _13 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	arobase ; id _16 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	té ; id _19 ; pos_index 14 ; pos_index_score 0 ; pos ONO ; 
+	0.00000e+00 26 	minuscule ; id _20 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	i ; id _23 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	minuscule ; id _24 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	o ; id _27 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	minuscule ; id _28 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	ène ; id _31 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	minuscule ; id _32 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	ou ; id _33 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	sion ; id _34 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; pbreak B ; 

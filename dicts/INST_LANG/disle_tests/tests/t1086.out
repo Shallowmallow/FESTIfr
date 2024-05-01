@@ -1,0 +1,17 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	c_est ; id _16 ; pos_index 9 ; pos_index_score 0 ; pos AUX ; 
+	0.00000e+00 26 	que ; id _17 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	par ; id _18 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	esprit ; id _19 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	fier ; id _20 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	on ; id _21 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	entend ; id _22 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	un ; id _23 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	homme ; id _24 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	qui ; id _25 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	pense ; id _26 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	avantageusement ; id _27 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	de ; id _28 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	soi_même ; id _29 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; pbreak B ; 

@@ -1,0 +1,10 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	centième ; id _10 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	livre ; id _11 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	n_a ; id _12 ; pos_index 9 ; pos_index_score 0 ; pos AUX ; 
+	0.00000e+00 26 	d_intéressant ; id _13 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	que ; id _14 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	ces ; id _15 ; pos_index 1 ; pos_index_score 0 ; pos ADJ:dem ; 
+	0.00000e+00 26 	illustrations ; id _16 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

@@ -1,0 +1,19 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Cette ; id _19 ; pos_index 1 ; pos_index_score 0 ; pos ADJ:dem ; 
+	0.00000e+00 26 	cité ; id _20 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	unique ; id _21 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	où ; id _22 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	tout ; id _23 ; pos_index 17 ; pos_index_score 0 ; pos PRO:ind ; 
+	0.00000e+00 26 	d_ailleurs ; id _24 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	devait ; id _25 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	être ; id _26 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	homogène ; id _27 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	isolée ; id _28 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	qu_elle ; id _29 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	était ; id _30 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	du ; id _31 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	reste ; id _32 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	du ; id _33 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	monde ; id _34 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

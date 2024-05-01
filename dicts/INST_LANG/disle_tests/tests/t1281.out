@@ -1,0 +1,12 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	donnez ; id _10 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	en ; id _11 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	un ; id _12 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	ou ; id _13 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	deux ; id _14 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	exemples ; id _15 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	s_il ; id _16 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	vous ; id _17 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	plait ; id _18 ; pos_index 22 ; pos_index_score 0 ; pos VER ; pbreak B ; 

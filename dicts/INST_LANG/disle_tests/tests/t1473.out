@@ -1,0 +1,12 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	je ; id _10 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	te ; id _11 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	porte ; id _12 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	dans ; id _13 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	moi ; id _14 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	comme ; id _15 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	un ; id _16 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	oiseau ; id _17 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	blessé ; id _18 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; pbreak B ; 

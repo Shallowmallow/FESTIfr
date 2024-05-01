@@ -1,0 +1,10 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	à ; id _7 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	quoi ; id _8 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	sert ; id _9 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	t_il ; id _10 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	de ; id _11 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	se ; id _12 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	fâcher ; id _13 ; pos_index 22 ; pos_index_score 0 ; pos VER ; pbreak B ; 

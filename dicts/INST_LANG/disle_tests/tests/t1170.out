@@ -1,0 +1,11 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Dans ; id _10 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	l_Écriture ; id _11 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	sainte ; id _12 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	le ; id _13 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	fils ; id _14 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _15 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	perdition ; id _16 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	Judas ; id _17 ; pos_index 12 ; pos_index_score 0 ; pos NAM ; pbreak B ; 

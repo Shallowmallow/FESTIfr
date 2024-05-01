@@ -1,0 +1,8 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	quarante_et_un ; id _10 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	individus ; id _11 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	se ; id _12 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	levèrent ; id _13 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	un_à_un ; id _14 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; pbreak B ; 

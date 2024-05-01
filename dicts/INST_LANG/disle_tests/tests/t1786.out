@@ -1,0 +1,21 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Comment ; id _20 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	pourrait ; id _21 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	t_on ; id _22 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	formuler ; id _23 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	une ; id _24 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	situation ; id _25 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _26 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	raisonnement ; id _27 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	à ; id _28 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	partir ; id _29 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	de ; id _30 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	ce ; id _31 ; pos_index 1 ; pos_index_score 0 ; pos ADJ:dem ; 
+	0.00000e+00 26 	dessin ; id _32 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	dessin ; id _33 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	d_un ; id _34 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	segment ; id _35 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	d_une ; id _36 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	droite ; id _37 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

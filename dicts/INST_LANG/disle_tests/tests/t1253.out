@@ -1,0 +1,6 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Les ; id _4 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	faits ; id _5 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	coincident ; id _6 ; pos_index 22 ; pos_index_score 0 ; pos VER ; pbreak B ; 

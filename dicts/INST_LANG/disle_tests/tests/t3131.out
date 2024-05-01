@@ -1,0 +1,6 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	avant_hier ; id _4 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	ou ; id _5 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	avant_avant_hier ; id _6 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; pbreak B ; 

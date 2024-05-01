@@ -1,0 +1,28 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Cela ; id _28 ; pos_index 16 ; pos_index_score 0 ; pos PRO:dem ; 
+	0.00000e+00 26 	demande ; id _29 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	enfin ; id _30 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	la ; id _31 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	capacité ; id _32 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _33 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	prendre ; id _34 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	en ; id _35 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	compte ; id _36 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	les ; id _37 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	conduites ; id _38 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	inattendues ; id _39 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	et ; id _40 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	d_imaginer ; id _41 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	au_delà ; id _42 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	de ; id _43 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	son ; id _44 ; pos_index 5 ; pos_index_score 0 ; pos ADJ:pos ; 
+	0.00000e+00 26 	simple ; id _45 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	énoncé ; id _46 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	diverses ; id _47 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	voies ; id _48 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	d_accès ; id _49 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	au ; id _50 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	savoir ; id _51 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	visé ; id _52 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; pbreak B ; 

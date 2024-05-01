@@ -1,0 +1,16 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Sur ; id _14 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	la ; id _15 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	pente ; id _16 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	fatale ; id _17 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	où ; id _18 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	une ; id _19 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	erreur ; id _20 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	démesurée ; id _21 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	nous ; id _22 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	avait ; id _23 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	de ; id _24 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	longtemps ; id _25 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	engagés ; id _26 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; pbreak B ; 

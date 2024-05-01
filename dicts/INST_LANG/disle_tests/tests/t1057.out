@@ -1,0 +1,5 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	attention ; id _3 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	requise ; id _4 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; pbreak B ; 

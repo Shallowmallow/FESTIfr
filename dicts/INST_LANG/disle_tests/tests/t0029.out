@@ -1,0 +1,7 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Il ; id _7 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	aura ; id _8 ; pos_index 9 ; pos_index_score 0 ; pos AUX ; 
+	0.00000e+00 26 	tenu ; id _9 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	jusqu_au_bout ; id _10 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; pbreak B ; 

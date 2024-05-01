@@ -1,0 +1,35 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Ceci ; id _36 ; pos_index 16 ; pos_index_score 0 ; pos PRO:dem ; 
+	0.00000e+00 26 	l_amène ; id _37 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	à ; id _38 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	formuler ; id _39 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	deux ; id _40 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	conjectures ; id _41 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	un ; id _42 ; pos_index 17 ; pos_index_score 0 ; pos PRO:ind ; 
+	0.00000e+00 26 	La ; id _43 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	problématique ; id _44 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	didactique ; id _45 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	ne ; id _46 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	prend ; id _47 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	en ; id _48 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	compte ; id _49 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	qu_une ; id _50 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	partie ; id _51 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _52 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	la ; id _53 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	situation ; id _54 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _55 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	l_enseignant ; id _56 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	et ; id _57 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	conduit ; id _58 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	les ; id _59 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	chercheurs ; id _60 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	à ; id _61 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	sous_estimer ; id _62 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	la ; id _63 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	complexité ; id _64 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _65 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	cette ; id _66 ; pos_index 1 ; pos_index_score 0 ; pos ADJ:dem ; 
+	0.00000e+00 26 	situation ; id _67 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

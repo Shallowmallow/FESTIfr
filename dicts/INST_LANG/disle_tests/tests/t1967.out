@@ -1,0 +1,5 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Quoi ; id _4 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	d_étonnant ; id _5 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; pbreak B ; 

@@ -1,0 +1,10 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Elle ; id _9 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	se ; id _10 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	sentait ; id _11 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	gagnée ; id _12 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	d_une ; id _13 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	colère ; id _14 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	froide ; id _15 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; pbreak B ; 

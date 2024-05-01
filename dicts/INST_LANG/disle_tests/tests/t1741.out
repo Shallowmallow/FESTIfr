@@ -1,0 +1,9 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Y ; id _7 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	voit ; id _8 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	t_on ; id _9 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	une ; id _10 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	marque ; id _11 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	d_ironie ; id _12 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

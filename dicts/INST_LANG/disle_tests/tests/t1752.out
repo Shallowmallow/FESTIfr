@@ -1,0 +1,17 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	est ; id _16 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	t_il ; id _17 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	besoin ; id _18 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _19 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	rappeler ; id _20 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	que ; id _21 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	s_évase ; id _22 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	la ; id _23 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	déchirure ; id _24 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	entre ; id _25 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	l_homme ; id _26 ; pos_index 12 ; pos_index_score 0 ; pos NAM ; 
+	0.00000e+00 26 	et ; id _27 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	la ; id _28 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	nature ; id _29 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

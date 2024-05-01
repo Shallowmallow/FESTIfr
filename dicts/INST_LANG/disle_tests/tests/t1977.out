@@ -1,0 +1,12 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	êtes ; id _10 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	vous ; id _11 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	fou ; id _12 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	de ; id _13 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	lui ; id _14 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	parler ; id _15 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	sur ; id _16 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	ce ; id _17 ; pos_index 1 ; pos_index_score 0 ; pos ADJ:dem ; 
+	0.00000e+00 26 	ton ; id _18 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

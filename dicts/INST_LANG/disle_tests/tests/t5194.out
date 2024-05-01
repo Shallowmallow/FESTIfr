@@ -1,0 +1,10 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Maguerite ; id _8 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	Duras ; id _9 ; pos_index 12 ; pos_index_score 0 ; pos NAM ; 
+	0.00000e+00 26 	est ; id _10 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	une ; id _11 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	femme ; id _12 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _13 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	lettres ; id _14 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

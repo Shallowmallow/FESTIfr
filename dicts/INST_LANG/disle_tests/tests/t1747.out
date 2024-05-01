@@ -1,0 +1,22 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Mais ; id _22 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	note_t_il ; id _23 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	à ; id _24 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	constater ; id _25 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	l_incidence ; id _26 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _27 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	ces ; id _28 ; pos_index 1 ; pos_index_score 0 ; pos ADJ:dem ; 
+	0.00000e+00 26 	malaises ; id _29 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	les ; id _30 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	spécialistes ; id _31 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _32 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	la ; id _33 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	déviance ; id _34 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	semblent ; id _35 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	davantage ; id _36 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	les ; id _37 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	avoir ; id _38 ; pos_index 9 ; pos_index_score 0 ; pos AUX ; 
+	0.00000e+00 26 	activés ; id _39 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	qu_éliminés ; id _40 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; pbreak B ; 

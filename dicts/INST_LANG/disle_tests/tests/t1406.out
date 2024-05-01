@@ -1,0 +1,9 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Ils ; id _7 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	se ; id _8 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	connaisssent ; id _9 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	de ; id _10 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	ce ; id _11 ; pos_index 1 ; pos_index_score 0 ; pos ADJ:dem ; 
+	0.00000e+00 26 	matin ; id _12 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

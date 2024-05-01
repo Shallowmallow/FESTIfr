@@ -1,0 +1,5 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	trois ; id _3 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	août ; id _4 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

@@ -1,0 +1,37 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	En_outre ; id _38 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	l_humanité ; id _39 ; pos_index 12 ; pos_index_score 0 ; pos NAM ; 
+	0.00000e+00 26 	a ; id _40 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	depuis ; id _41 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	la ; id _42 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	nuit ; id _43 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	des ; id _44 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	temps ; id _45 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	été ; id _46 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	le ; id _47 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	théâtre ; id _48 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _49 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	guerres ; id _50 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	tribales ; id _51 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	ethniques ; id _52 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	ou ; id _53 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	inter_États ; id _54 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	de ; id _55 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	conflits ; id _56 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	raciaux ; id _57 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	ou ; id _58 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	religieux ; id _59 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	de ; id _60 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	violents ; id _61 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	chocs ; id _62 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _63 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	civilisations ; id _64 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	ou ; id _65 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	de ; id _66 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	cultures ; id _67 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	et ; id _68 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	maintenant ; id _69 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	d_attaques ; id _70 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	terroristes ; id _71 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; pbreak B ; 

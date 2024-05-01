@@ -1,0 +1,13 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Tu ; id _11 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	avais ; id _12 ; pos_index 9 ; pos_index_score 0 ; pos AUX ; 
+	0.00000e+00 26 	déjà ; id _13 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	coiffer ; id _14 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	la ; id _15 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	Sainte_Catherine ; id _16 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	ton ; id _17 ; pos_index 5 ; pos_index_score 0 ; pos ADJ:pos ; 
+	0.00000e+00 26 	mariage ; id _18 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	était ; id _19 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	nécessaire ; id _20 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; pbreak B ; 

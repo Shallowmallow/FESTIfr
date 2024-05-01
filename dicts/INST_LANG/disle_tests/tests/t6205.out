@@ -1,0 +1,6 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Dequels ; id _3 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	parlez ; id _4 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	vous ; id _5 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; pbreak B ; 

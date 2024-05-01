@@ -1,0 +1,28 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	C_est ; id _9 ; pos_index 9 ; pos_index_score 0 ; pos AUX ; 
+	0.00000e+00 26 	un ; id _10 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	grand ; id _11 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	défaut ; id _12 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	que ; id _13 ; pos_index 18 ; pos_index_score 0 ; pos PRO:int ; 
+	0.00000e+00 26 	èle ; id _15 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	minuscule ; id _16 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	_ ; id _19 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	a ; id _22 ; pos_index 9 ; pos_index_score 0 ; pos AUX ; 
+	0.00000e+00 26 	minuscule ; id _23 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	vé ; id _26 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	minuscule ; id _27 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	a ; id _30 ; pos_index 9 ; pos_index_score 0 ; pos AUX ; 
+	0.00000e+00 26 	minuscule ; id _31 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	ère ; id _34 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	minuscule ; id _35 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	i ; id _38 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	minuscule ; id _39 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	sé ; id _42 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	minuscule ; id _43 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	e ; id _46 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	minuscule ; id _47 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	guillemet ; id _50 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	tiret ; id _53 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	un ; id _56 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; pbreak B ; 

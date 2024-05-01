@@ -1,0 +1,5 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	j_irais ; id _6 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	jusqu_au_bout ; id _7 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; pbreak B ; 

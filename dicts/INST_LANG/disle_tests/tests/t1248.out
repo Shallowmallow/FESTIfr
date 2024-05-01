@@ -1,0 +1,17 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Il ; id _18 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	se ; id _19 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	trouve ; id _20 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	vis_à_vis ; id _21 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	de_rien ; id _22 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	se ; id _23 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	dit ; id _24 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	d_un ; id _25 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	homme ; id _26 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	dont ; id _27 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	tout ; id _28 ; pos_index 17 ; pos_index_score 0 ; pos PRO:ind ; 
+	0.00000e+00 26 	l_avoir ; id _29 ; pos_index 9 ; pos_index_score 0 ; pos AUX ; 
+	0.00000e+00 26 	a ; id _30 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	disparu ; id _31 ; pos_index 22 ; pos_index_score 0 ; pos VER ; pbreak B ; 

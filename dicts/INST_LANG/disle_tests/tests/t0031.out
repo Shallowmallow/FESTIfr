@@ -1,0 +1,8 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	J_aime ; id _8 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	les ; id _9 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	pâtes ; id _10 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	plutôt ; id _11 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	al_dente ; id _12 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; pbreak B ; 

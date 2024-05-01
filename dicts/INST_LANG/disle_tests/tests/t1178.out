@@ -1,0 +1,9 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	De ; id _8 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	l_avoir ; id _9 ; pos_index 9 ; pos_index_score 0 ; pos AUX ; 
+	0.00000e+00 26 	rencontrée ; id _10 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	nous ; id _11 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	rendait ; id _12 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	heureux ; id _13 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; pbreak B ; 

@@ -1,0 +1,25 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Lorsqu_il ; id _27 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	s_agit ; id _28 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	d_expéditions ; id _29 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	en ; id _30 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	transit ; id _31 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	international ; id _32 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	on ; id _33 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	considère ; id _34 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	comme ; id _35 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	bureau ; id _36 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _37 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	prime ; id _38 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	abord ; id _39 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	le ; id _40 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	bureau ; id _41 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	où ; id _42 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	s_effectue ; id _43 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	la ; id _44 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	vérification ; id _45 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _46 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	la ; id _47 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	marchandise ; id _48 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

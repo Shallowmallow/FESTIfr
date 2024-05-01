@@ -1,0 +1,7 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Monsieur ; id _5 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	Cheval ; id _6 ; pos_index 12 ; pos_index_score 0 ; pos NAM ; 
+	0.00000e+00 26 	était ; id _7 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	facteur ; id _8 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

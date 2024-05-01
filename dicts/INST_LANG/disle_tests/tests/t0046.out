@@ -1,0 +1,9 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	c_était ; id _8 ; pos_index 9 ; pos_index_score 0 ; pos AUX ; 
+	0.00000e+00 26 	de ; id _9 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	bric ; id _10 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	et ; id _11 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	de ; id _12 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	broc ; id _13 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

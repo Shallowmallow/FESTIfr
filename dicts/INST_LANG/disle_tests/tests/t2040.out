@@ -1,0 +1,11 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	on ; id _13 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	pouvait ; id _14 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	d_ores_et_déjà ; id _15 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	affirmer ; id _16 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	qu_il ; id _17 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	avait ; id _18 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	du ; id _19 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	caractère ; id _20 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

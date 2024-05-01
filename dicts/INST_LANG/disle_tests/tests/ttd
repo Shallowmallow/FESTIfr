@@ -1,0 +1,935 @@
+( t1787 "3744 rue Jean-Brillant
+bureau 6310
+QC, H3T 1P1 Montréal
+Canada ")
+( t1788 "¼ de litre de lait")
+( t1789 "¼ l. d'eau")
+
+( t1790 "ajoutez ½ cuillère")
+( t1791 "c'est à ¾ terminé")
+( t1792 "un peu de ferment suffit")
+( t1793 "prenez pour ferment du ferment lactique")
+( t1794 "sans ferment, point de salut"); AC
+( t1795 "Avec mes remerciements,")
+( t1796 "identification du practicien RPPS 10109371335")
+( t1797 "Identification de la structure CDS Santé Plus Metz")
+( t1798 "6 rue PIERRE PERRAT")
+( t1799 "57900 METZ")
+( t0010 "prends-en un morceau")
+( t0011 "allons-y en courant");  AC wordroot de allons non respecté
+( t0012 "en avez-vous assez ?");
+( t0013 "en êtes-vous satisfaits ?"); AC êtes PRO:per
+( t0009 "ont-ils peur du noir ?")
+( t1346 "gagne-t'il versus gagne-t-il ?"); bonne et mauvaise typo AC bonne !!  gagne_t_il ; pos_index 15 ; pos_index_score 0 ; pos PRE !!!
+( t1905 "gagne-t'il sa vie ?"); ok après correction de list_a et ajout poslex de t_il
+( t1906 "gagne-t-il à être connu ?"); mauvaise typo
+( t1907 "rations-nous les rations"); OK !
+( t1728 "Vous y viendrez")
+( t1729 "Vous viendrez ")
+( t0049 "s'il y en a assez, dites-le"); AC le ART def
+( t1033 "\"Dites-moi en quoi je puis vous servir.  \""); AC!! ouvrez les guillemets manquants
+
+( t1730 "Emmène-moi")
+( t1731 "Dites-lui bonjour de ma part")
+( t1732 "Apportez le maintenant") ; AC le     pos ART:def
+( t1733 "Croyez-moi, cela vaut mieux")
+( t1734 "Croyez-en vous et continuez")
+( t1735 "Ils croyaient en elles")
+( t1736 "Vous viendrez le mercredi")
+( t1737 "Elles l'affirment elles-même"); AC elles_même ADV pas genant
+( t1738 "Allez-y, moquez-vous !")
+( t1739 "Fais-je fausse route ?")
+( t1740 "Croyez-en lui et multipliez-vous")
+( t1741 "Y voit-on une marque d'ironie")   ; AC d_ironie ; id _12 ; pos_index 15 ; pos_index_score 0 ; pos PRE
+( t1742 "Et fût-ce au détriment de mon propre intérêt ...")
+( t1743 "Un tiret est aussi une pièce de bois qui sert d'arc-boutant dans un moulin"); d_arc_boutant ; id _26 ; pos_index 22 ; pos_index_score 0 ; pos VER ;
+;( t1744 "Ils ont donné leurs blancs-seings aux arbitres.") AC pourquoi blancs_seing n'est pas trouvé dans addenda fautif !
+( t1745 "Votre choix[-1 pour abandonner]")  ; AC !!
+( t1746 "Cette situation déplorable devrait se résorber, semble-t-il, avec l’arrivée des boomers et des générations suivantes.")
+( t1747 "Mais, note-t-il, à constater l’incidence de ces malaises, les spécialistes de la déviance semblent davantage les avoir activés qu’éliminés") ; AC pos activés VER qu_éliminés   ADJ
+( t1748 "ils semblent les avoir exacerbés au lieu de les avoir éliminés")
+( t1749 "Les prédictions les plus conservatrices chiffrent à 10 milliards le nombre d’êtres humains avant la fin du XXIe siècle, une croissance exponentielle !"); AC vingt_et_un ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; et non ordinal
+( t1750 "Or, on n’oubliera pas que le vieillissement démographique fait corps avec plusieurs des grands défis actuels de la civilisation, s’inscrivant de plain-pied dans un cadre sociopolitique qui craque de toutes parts et qui menace de sombrer, étant traversé par de profondes contradictions.")
+( t1751 "un tramway nommé Désir, il n'y a que dans les films qu'on voit ça.")
+( t1752 "Est-il besoin de rappeler que s’évase la déchirure entre l’homme et la nature ?")
+( t1753 "En outre, l’humanité a, depuis la nuit des temps, été le théâtre de guerres tribales, ethniques ou inter-États, de conflits raciaux ou religieux, de violents chocs de civilisations ou de cultures, et maintenant d’attaques terroristes.")
+( t1754 "n'importe qui fera l'affaire")
+( t1755 "La mise hors-circuit des personnes illettrées, brutalement retranchées des réseaux culturels, ne fait qu’appauvrir et ces individus et la société.")
+
+( t1756 "Lorsqu'il s'agit d'expéditions en transit international, on considère comme bureau de prime abord le bureau où s'effectue la vérification de la marchandise")
+( t1757 "La planche IV, fig. 2 représente un fragment de feuille de myosotis.")
+( t1758 "Versailles n'est qu'à 23km de Paris, au sud-ouest."); correction poslex mètre NOM
+( t1759 "Les pays de l'est ont perdu le nord.")
+
+( t1760 "Où se trouve l'île du Levant ? ce n'est pas à moi qu'il faut poser la question.")
+( t1761 "Qui a dit \"il n'y a pas de réponse sans question\"")
+( t1762 "un point situé par 52° 4' de latitude N et 41° 6' de longitude E")
+( t1763 "un vent soufflant en direction nord-sud")
+( t1764 "D’aucuns sont d’avis que la société de l’information est libératrice, qu’elle pave la voie à de nouvelles formes de solidarité et de créativité."); d_aucuns pos ADJ:ind
+( t1765 "Sache Renaud que la clenche est la pièce principale d'un loquet, laquelle, reçue par le mentonnet, tient la porte fermée. On dit aussi clenchette ou clinche.")
+( t1766 "En aucun cas, je ne pourrais admettre un retard, si petit fut-il")
+( t1767 "Pas de boniments ici, messieurs-dames")
+( t1768 "Tu avais déjà coiffer la Sainte-Catherine, ton mariage était nécessaire.")
+( t1769 "Ce serviteur s'est montré insolent.")
+
+( t1770 "Il a fait preuve d'un tact au-dessus de toute éloge")
+( t1771 "Avez-vous fini de me casser la tête avec vos calembredaines")
+( t1772 "Les bras m'en tombent. Donnez-moi le mot de l'énigme.")
+( t1773 "Penses-tu, ce coureur de guilledou, je dirais même, ce vieux paillard !")
+( t1774 "ceux-ci ne viennent pas seuls, mais accompagnés de contraintes sur les données et les arguments admissibles.")
+( t1775 "Chaque discipline (scientifique, philosophique, etc.) saisit la réalité selon certains axes, autour de certaines choses qui lui sont propres")
+( t1776 "le point sensible se situe à l’articulation entre le contenu à enseigner et le savoir didactique lui-même.")
+( t1777 "cet effort « d’émancipation vis-à-vis des disciplines de référence » ")
+( t1778 "cet effort \"d'émancipation\" ")
+( t1779 "cet effort « d’émancipation de référence » ")
+
+( t1780 "„dès six heures trente")
+( t1781 "Floris se demande où « s’arrête le sous-système cognitif » et formule les questions suivantes : « 1) partant d’une question se rapportant au système didactique, peut-on être amené à devoir étudier le sous-système cognitif ? 2) partant d’une question sur le système cognitif comme sous-système du système didactique, peut-on être amené à devoir étudier le système didactique ? »")
+( t1782 "Reconnue Association d'intérêt général d'ordre humanitaire, nous pouvons à ce titre,  délivrer à nos mécènes et donateurs un reçu fiscal ouvrant droit à réduction d'impôts.")
+( t1783 "Comme nous l’avons succinctement montré dans les résumés précédents, les contributions de chacun permettent d’identifier des points d’entrée du cognitif dans le didactique et de déterminer certaines conditions à l’enrichissement du didactique par le cognitif.")
+( t1784 "Ceci l’amène à formuler deux conjectures : (1) « La problématique didactique ne prend en compte qu’une partie de la situation de l’enseignant et conduit les chercheurs à sous-estimer la complexité de cette situation. »")
+( t1785 "Cela demande enfin la capacité de prendre en compte les conduites inattendues et d’imaginer, au-delà de son simple énoncé, diverses voies d’accès au savoir visé.")
+( t1786 "Comment pourrait-on formuler une situation de raisonnement à partir de ce dessin ? [dessin d’un segment d’une droite]")
+
+
+
+( t0001 "je ne vois plus mes petits enfants")
+( t0002 "regarde ce grand arbre")
+( t0003 "tout homme a soif de bonheur")
+( t0004 "deux ours ne cachent pas la forêt")
+( t0005 "tu ne vas pas loin avec vingt euros")
+( t0006 "nous avons faim" )
+( t0007 "elles aiment jouer")
+( t0008 "on ouvre les yeux")
+
+( t0014 "il faut essayer avant de critiquer");
+( t0015 "la liaison est interdite après un nom au singulier")
+( t0016 "un avocat aimable")
+( t0017 "voit-elle la solution ?"); AC  t_elle pos PRE
+( t0018 "se voit-elle en paysanne"); AC t_elle pos ADV
+( t0019 "elle ne croit pas en nous")
+( t0020 "Où va-t'on maintenant ?"); AC va_t ; pos_index 19 ; pos_index_score 0 ; pos PRO:per pas bon changer en va_t_on ??
+( t0021 "un ours attentif")
+( t0022 "un autobus aux belles couleurs")
+( t0023 "un détritus afriolant")
+( t0024 "un sphinx affolant")
+( t0025 "N'importe quoi !")
+( t0026 "Il s'habille n'importe comment")
+( t0027 "Ils déboulent n'importe quand")
+( t0028  "il n'y en a déjà plus")
+( t0029 "Il aura tenu jusqu'au bout")
+( t0030 "il y a une procédure ad hoc");
+( t0031 "J'aime les pâtes plutôt al dente");
+( t0032 "Il arrivera d'ici une à deux heures")
+( t0033 "Cela reste en suspens")
+( t0034 "Est il plus beau pour autant ?")
+( t0035 "un unau"); AC locution
+( t0036 "afin d'arriver à bon port")
+( t0037 "bien que cela ne me regarde pas")
+( t0038 "loin d'arriver à cette conclusion")
+( t0039 "n'est-ce pas délirant") ; pas bon !!! AC pas de ce
+( t0040 "je m'adresse à ceux et celles qui en doutent encore")
+( t0041 "je m'adresse à ceux et à celles qui en doutent encore")
+( t0042 "il n'y en a plus pour très longtemps")
+( t0043 "nuit et jour, il y repense")
+( t0043 "nuit et jour, il y repense");
+( t0044 "c'est tout de même un peu fort !")
+( t0045 "ils se baissèrent un à un")
+( t0046 "c'était de bric et de broc")
+( t0047 "gardez-les auprès de vous"); AC les pos ART:def  auprès NOM
+( t0048 "prenez-les à la maison"); ok    les PRO:per
+( t0050 "un loup hirsute")
+( t0060 "quelque chose me dit qu'il va revenir")
+( t0070 "Est-il plus beau pour autant ?")
+( t0080 "les bus de Coca")
+( t0081 "les cocas bus")
+( t0090 "qu'est-ce ?")    ; ok
+( t0091 "qu'est-ce à dire ?")
+( t0092 "qu'obtient-on ?")  ; AC
+( t0093 "qu'obtient'on ?") ; AC
+( t0094 "qu'il fait beau")
+( t0100 "d'Hazebrouck fut un homme avant de devenir un pont")
+( t0110 "O'brian est un nom courant")
+( t0129 "Il est plein de respect et d'affection pour sa très jeune femme")
+( t0130 "Il s'enfuit en moins de rien")
+( t1001 "c'en a tout l'air")
+( t1002 "de tout autre manière")
+( t1003 "dialogue, virologue, catalogue, analogue, églogue, épilogua, épiloguiez, épiloguâtes")
+( t1004 "à neuf heures cinq il prend le train")
+( t1005 "-")
+( t1006 "0056");     ; AC!! id _1 ; name "0056" ; whitespace "" ; prepunctuation "" ; token_pos cardinal ;; \ wp "nil" !!!
+( t1007 "1 000"); ok
+( t1008 "12 456 789")  ; AC 789 2 fois
+( t1009 "12,456 789");    ok
+( t1010 "15 Hz")
+( t1011 "15 K"); AC
+( t1012 "15 k"); AC
+( t1013 "15 kHz")
+( t1014 "171 architectes")
+( t1015 "1800-1882"); AC
+( t1016 "1° de l'ordonnance n° 2005"); AC
+( t1017 "1° de l'ordonnance n° 2005-649"); AC
+( t1018 "20:30h")
+( t1019 "23:45:10")
+( t1020 "24,56 %")
+( t1021 "25 avril 1932"); AC cinq
+( t1022 "3 août")
+( t1023 "3 avril")
+( t1024 "3 octobre")
+( t1025 "4 000")
+( t1026 "40 000")
+( t1027 "400 000")
+( t1028 ";;;;;;;;;;;;;;;;;;;;;;;;;;;10sans espace\" 50)"); AC!! pas de sans
+( t1029 ";attention requise : @@tion ou sion ?"); AC qd sampa
+( t1030 ";des yeux, des ouies")
+( t1031 "\"1800-1882\""); AC
+( t1032 "\"Différer d'avis\"")
+( t1034 "( t \"L'histoire qu'on voit qui vous tient au coeur. (Gide)"); AC Roman non à cause de l'apostrophe
+( t1035 "( t \"le \\"n\\""); AC
+( t1036 "a t'il chaud")
+( t1037 "a-t-il"); bad typo tant pis
+( t1038 "abandonner toute pudeur")
+( t1039 "afro-américain")
+( t1040 "agit-prop")
+( t1041 "Ah ! qu'il est doucereux, c'est tout sucre et tout miel. Molière")
+( t1042 "aide-infirmier")
+( t1043 "aigres-doux")
+( t1044 "Ainsi dit le renard, et les flatteurs d'applaudir.")
+( t1045 "ainsi que l'inverse")
+( t1046 "Aix-en-Othe")
+( t1047 "Aix-en-provence, Aix-les-bains")
+( t1048 "Aixe-sur-Vienne")
+( t1049 "Allons ! Que tardez-vous ?"); ok vous PRO:per
+( t1050 "alors Iphigénie, après Auber");
+( t1051 "ampli-tuner")
+( t1052 "années-homme")
+( t1053 "anti-sous-marin")
+( t1054 "après ajout à l'addenda, il est question d'argent': 10 ¢"); ok
+( t1055 "après tout")
+( t1056 "après-coup")
+( t1057 "attention requise")
+( t1058 "au chapitre II p.4"); AC p.
+( t1059 "Autant faire cela sur le champ que de différer.")
+( t1060 "avant-hier")
+( t1061 "avec mon bras de libre")
+( t1062 "avocat aimable")
+( t1063 "avoir tout intérêt à")
+( t1064 "beaux-arts")
+( t1065 "beaux-enfants")
+( t1066 "beaux-fils")
+( t1067 "best-seller")
+( t1068 "bien d'autres choses me viennent en tête")
+( t1069 "bien des gens m'ont dit, trop de cas, trop d'argent")
+( t1070 "Bien que ma cuisine soit des plus simple. (Thérive)"); AC pas de parenthèse fermante
+( t1071 "Bien que votre attitude me semble des plus étranges, je puis vous communiquer son adresse. ( Queneau)") ; AC parenthèse ouvrante pas de fermante
+( t1072 "bla bla. le XXe (Le monde)"); ok
+( t1073 "bon au porteur.")
+( t1074 "bon à rien.")
+( t1075 "bons à rien.")
+( t1076 "Bourg-en-Bresse");
+( t1077 "box-office")
+( t1078 "boxer-short")
+( t1079 "brainstorming")
+( t1080 "Burkina Faso");
+( t1081 "C'est aujourd'hui qu'elle est le plus gentille.")
+( t1082 "C'est donc la pensée qui fait l'être de l'homme, et sans quoi on ne le peut concevoir.")
+( t1083 "C'est encore ici une des raisons pour quoi je veux élever Émile à la campagne (Rousseau)"); AC parenthèse ouvrante pas de fermante
+( t1084 "c'est laid un palmier sans feuille");
+( t1085 "c'est le printemps")  ; c_est  pos VER,  le def ; printemps ; pos NOM ;
+( t1086 "c'est que par esprit fier on entend un homme qui pense avantageusement de soi-même")
+( t1087 "C'est son projet de capter votre confiance.")
+( t1088 "c'est tout bénéfice")
+( t1089 "C'est tout ce de quoi j'ai besoin. (Malherbes)") ; ; AC parenthèse ouvrante pas de fermante
+( t1090 "C'est tout lui, c'est tout toi")
+( t1091 "c'est toute une affaire")
+( t1092 "c'est toute une histoire")
+( t1093 "C'est un des meilleurs devoirs que tu n'aies jamais faits.");
+( t1094 "C'est un grand défaut que l'avarice\"-1)"); AC split plus mot" ou norm ?
+( t1095 "C'est un homme des plus loyal.")
+( t1096 "C'est un projet ambitieux, le plus vaste qui eût jamais été formé sur la terre (Boulle)")   ; ; AC parenthèse ouvrante pas de fermante
+( t1097 "c'est un tout autre écrivain.")
+( t1098 "C'est à vous de jouer")
+( t1099 "c'est-à-dire")
+( t1100 "c'est-à-dire ses peines, ses dégoûts, ses inquiétudes, ses terreurs, avec quoi il puisse s'entretenir")
+( t1101 "cabus, inclus, perclus, jésus,  intrus,  merlus, actus, cabus, cocus")
+( t1102 "camping-car")
+( t1103 "cardinal avec pour commencer des zéros :  00412"); AC         pas de 412
+( t1104 "carrousel")
+( t1105 "Ce blasphème, seigneur, de quoi vous m'accusez, ( Corneille. Andromède )"); AC Andromède épelé y compris barre oblique
+( t1106 "ce café était tout ce qu'il y a de plus fort")
+( t1107 "ce choix politique n'est pas un traitement de faveur")
+( t1108 "ce disant")
+( t1109 "ce huit")
+( t1110 "Ce livre n'a d'intéressant que ces illustrations")
+( t1111 "Ce n'est pas d'aujourd'hui que je le connais.") ; AC 	d_aujourd ; id _14 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ;	0.00000e+00 26 	hui ; id _15 ; pos_index 13 ; pos_index_score 0 ; pos NOM
+( t1112 "Ce n'est pas tant la peur de la mort qui me fait fuir que de ce qu'il est fâcheux à un gentilhomme d'être pendu")
+( t1113 "ce n'est pas tout")
+( t1114 "Ce qu'il est bête !")
+( t1115 "Ce qu'il est stupide et grossier !")
+( t1116 "Ce que j'ai à vous dire ne doit être entendu que de vous. (Anatole France)")   ; ?? là j'ai une parenthèse fermante cf t1089
+( t1117 "Ce qui n'est pas des plus aisé.")
+( t1118 "Ce sont autant de mensonges")
+( t1119 "Ce sont tous d'anciens combattants")
+( t1120 "Ce sont tous des mensonges")
+( t1121 "Ce sont tous tissus infroissables")
+( t1122 "Ce sont toutes fables que vous me contez là.")
+( t1123 "ceci, dépeciez, gibecière, monoecie, poecile, satisfecit, ce_ci")
+( t1124 "Cela est des plus immoral.")
+( t1125 "Cela va de soi")
+( t1126 "cent francs, tout compris")
+( t1127 "Ces conversations, je pourrais les redire toutes.")
+( t1128 "Ces conversations, je pourrais les redires tout entières.")
+( t1129 "ces enfants-ci")
+( t1130 "ces huit hommes et dix-huit chevaux")
+( t1131 "cet enfant-ci")
+( t1132 "Cet homme est mort sans enfant")
+( t1133 "cet être-ci")
+( t1134 "cet être-là")
+( t1135 "Cette cité unique où tout d'ailleurs devait être homogène, isolée qu'elle était du reste du monde.")
+( t1136 "Cette conversation, je pourrais la redire toute.")
+( t1137 "Cette femme charitable se fait toute à tous."); AC
+( t1138 "ceux-ci")
+( t1139 "chacun a un toit")
+( t1140 "Chacun donnera à cette quête, qui plus, qui moins.")
+( t1141 "challenge")
+( t1142 "chap.10"); chapitre NOM dix NOM
+( t1143 "chap.10");
+( t1144 "chap.il"); AC toujours pas de romains
+( t1145 "chap.IV"); AC    IV PRE
+( t1146 "chap.IV"); AC
+( t1147 "chemin faisant")
+( t1148 "chewing-gum")
+( t1149 "Chez cet artiste, dont on sait peu de choses, les logis modestes et curieusement vides hébergent des femmes qui semblent observer ce qui se passe dans la rue, ou faire signe à d'autres personnages, comme dans cette toile où une femme assise sur une chaise en train de basculer vers l'avant s'adresse à une petite fille qui se trouve de l'autre côté, représentée par un petit visage blême, baigné par une clarté lunaire.")
+( t1150 "Choisissez de César, d'Achille ou d'Alexandre")
+( t1151 "cinq et cinq font dix."); AC dix
+( t1152 "cinq ou six abricots, plus surement six.")
+( t1153 "Cinq ou six cents personnes.")
+( t1154 "cinq pater et cinq ave")
+( t1155 "cinq à sept")
+( t1156 "cinq, six,  sept, huit")
+( t1157 "coach")
+( t1158 "comme on dit \"autre temps, autre moeurs\"")
+( t1159 "Comment lui, très jeune metteur en scène, aborde-t-il ?"); bad typo
+( t1160 "compter non plus par syllabes, mais par mots.")
+( t1161 "contre toute attente")
+( t1162 "convainc-t-elle")
+( t1163 "couché sans honneur dans une foule obscure")
+( t1164 "courant 2020, bla bla bla")                           ; OK
+( t1165 "couvert d'un poil grisâtre, laineux, mat et doux au toucher")
+( t1166 "croc-en-jambe")
+( t1167 "d'aujourd'hui en huit.")                                  ; AC huit pas un NOM versus t1168  ; AV préfère d_aujourd_hui
+( t1168 "d'aujourd'hui en quinze.")
+( t1169 "Dans l'espoir qu'il viendra\"")
+( t1170 "Dans l'Écriture sainte, le fils de perdition, Judas")
+( t1171 "dans la catégorie des pouvoirs adjudicateurs au sens de l'article 3 I. 1°"); AC  romains
+( t1172 "de beaux enfants")
+( t1173 "de beaux yeux")
+( t1174 "De ce que je n'en parle pas, cela ne veut pas dire que je n'y songe plus.")
+( t1175 "de cela même qu'ils étaient demeurés imparfaits.")
+( t1176 "De celui-ci allons à celui-là.")
+( t1177 "De Gaulle a écrit")
+( t1178 "De l'avoir rencontrée nous rendait heureux.")
+( t1179 "de mon temps, quand j'étais jeune")
+( t1180 "De par le roi, en vertu de l'autorité du roi")
+( t1181 "De quand est cette lettre ?")
+( t1182 "de quel acabit était-il le conseiller ?")
+( t1183 "de tout coeur")
+( t1184 "de tout mon coeur")
+( t1185 "de tout quoi il résulte")
+( t1186 "De tout quoi on a dressé le procès-verbal.")
+( t1187 "de tout repos")
+( t1188 "de tout temps")
+( t1189 "de toute force à tout hasard")
+( t1190 "de toute nature")
+( t1191 "de toute sorte")
+( t1192 "de toute éternité")
+( t1193 "Demi-hiatus, rencontre de deux voyelles dissimulée par une élision")
+( t1194 "depuis une heure"); AC
+( t1195 "des fromages, j'en ai de fameux.")
+( t1196 "des gens avertis")
+( t1197 "des livres, j'en ai de reliés.")
+( t1198 "des oranges.")
+( t1199 "des oui et des non")
+( t1200 "des ouies")
+( t1201 "des portions de frites à volonté"); AC portions
+( t1202 "des yeux")
+( t1203 "des yeux humides")
+( t1204 "deux ans auparavant")
+( t1205 "deux ours")
+( t1206 "Deux points à quoi je m'attache, et que je voudrais imprimer profondément dans vos esprits, ( Bourdal).")
+( t1207 "deux poires, leurs aventures, son adjectif")
+( t1208 "Différer d'avis")
+( t1209 "Digne d'estime. Avide de gloire. Altéré de sang. Je suis mécontent de moi. Faible d'esprit et de corps")
+( t1210 "en tout")
+( t1211 "Il est étrangement jaloux de cette liberté et de cette ubiquité qu'il croit que possède l'esprit (Valéry)")
+( t1212 "j'ai plus faim que lui.")
+( t1213 "La ville de Paris est polluée.")
+( t1214 "par-dessus tout")
+( t1215 "Paris est la capitale de la France.")
+( t1216 "tout est bien")
+( t1217 "tout est dans tout")
+( t1218 "tout est là")
+( t1219 "une plus grande quantité")
+( t1220 "voilà tout")
+( t1221 "à jeun en avril")
+( t1222 "À l’évidence")
+( t1223 "à quoi sert-il de se fâcher ?")
+( t1224 "à tous crins"); AC
+( t1225 "à tous égards")
+( t1226 "À tout hasard, au risque de tout ce qui peut arriver.")
+( t1227 "à tout prendre")
+( t1228 "à tout prix")
+( t1229 "à tout un chacun")
+( t1230 "à tout va")
+( t1231 "à tout âge")
+( t1232 "à tout épreuve")
+( t1233 "à tout-va")
+( t1234 "à toute allure")
+( t1235 "à toute bride")
+( t1236 "à toute extrémité")
+( t1237 "à toute heure")
+( t1238 "à toute heure du jour")
+( t1239 "à toute vitesse")
+( t1240 "à toutes jambes")
+( t1241 "à toutes mains")
+( t1242 "à une autre fois, peut-être")
+( t1243 "Ç'avait été, des deux parts, un mariage de passion, de la tête et des sens")
+( t1244 "Veuillez procéder à l'avulsion des dents suivantes: 13, 14, 15")
+( t1245 "En bonne fois, ce point sur quoi vous me pressez est une affaire aussi qui m'embarasse assez.")
+( t1246 "En quoi différons-nous d'avis ? à quoi de fâcheux devons-nous nous attendre ? (La Bruyère)")
+( t1247 "Flots profonds, redoutés des mères à genoux. (Hugo)")
+( t1248 "Il se trouve vis-à-vis de rien, se dit d'un homme dont tout l'avoir a disparu.")
+( t1249 "Il y a de certaines choses sur quoi on se trouve disposé à souffler du bonheur, comme du temps des fées.")
+( t1250 "J'avais pour vis-à-vis un homme fort jovial.")
+( t1251 "Je reverrai tout cela.")
+( t1252 "L'éducation des enfants est une chose à quoi il faut s'attacher fortement")
+( t1253 "Les faits coîncident"); AC
+( t1254 "Mon vis-à-vis était une fort jolie femme.")
+( t1255 "J'avais pour vis-à-vis un homme fort jovial.\"")
+( t1256 "Nous serions abandonnés de nos familles")
+( t1257 "pour tous gages")
+( t1258 "pour tout vêtement")
+( t1259 "Quoi ! mes plus chers amis ! quoi ! Cinna ! quoi ! Maxime ! Les deux que j'honorais d'une si haute estime !")
+( t1260 "Son pays le crut fou, petits esprits ! mais quoi ! Aucun n'est prophète chez soi.")
+( t1261 "Tout ce que je sais.")
+( t1262 "Un des deux couples nécessaires pour danser le quadrille. Je n'ai pas de vis-à-vis")
+( t1263 "Un énorme globe terrestre entouré de deux anneaux de carton.")
+( t1264 "Un fait est coïncident à un autre, lorsqu'il est arrivé dans le même temps"); AC coïncident VER :( tVER VER
+( t1265 "Voilà de bien belles choses à quoi saint Clément ne pense pas")
+( t1266 "Réduits que nous sommes aux seuls agréments de la conversation, j'aimerais assez de l'entendre")
+( t1267 "Distinguer l'ami d'avec le flatteur")
+( t1268 "Dit-on du bien de ma voix ?")
+( t1269 "dix ans et plus ne l'ont pas changé.")
+( t1270 "dix harengs")
+( t1271 "dix-huit ans")
+( t1272 "dix oranges.")
+( t1273 "dog-cart")
+( t1274 "donne-m'en"); AC donne_m ?
+( t1275 "donne-moi-s'en")
+( t1276 "donner toute satisfaction")
+( t1277 "donnes-en")
+( t1278 "donne-t-elle")
+( t1279 "donne-t-elle")
+( t1280 "donnez-en cinq")
+( t1281 "donnez-en un ou deux exemples, s'il vous plait")
+( t1282 "dont on a parlé")
+( t1283 "d'outre, en outre")
+( t1284 "doux-amer")
+( t1285 "du baron ou de la baronne, je n'aurais su dire lequel était le plus baroque.")
+( t1286 "D'un facile bonheur faisant sa seule étude")
+( t1287 "du temps de Racine")
+( t1288 "du tout")
+( t1289 "écouter de toutes ses oreilles")
+( t1290 "edelweiss")
+( t1291 "Effets qui diffèrent quand la lune est pleine de quand elle est nouvelle")
+( t1292 "Elle n'avait pas dormi de la nuit.")
+( t1293 "Elle n'est plus, elle est morte")
+( t1294 "Elle se demandait peut-être quoi faire de tout cet argent maintenant.")
+( t1295 "Elle se sentait gagnée d'une colère froide")
+( t1296 "elles me font toutes pitié")
+( t1297 "Elles se faisaient toutes à leurs nouvelles voisines")
+( t1298 "elles sont arrivées")
+( t1299 "elles toutes")
+( t1300 "Elle tremblait toute.")
+( t1301 "emmerdeur pemmican emmener emmène emmassé emmaladie décemment")
+( t1302 "empereur, papillote, empeigné, empennage, empeau")
+( t1303 "en 2005?") ; AC date
+( t1304 "En 2012/2013, le premier festival")
+( t1305 "en arrière")
+( t1306 "en autre lieu")
+( t1307 "en avant")
+( t1308 "encore un mois de passé")
+( t1309 "En elle, elle se retrouve toute.")
+( t1310 "En elle, il se  retrouve tout.")
+( t1311 "en étant")
+( t1312 "en haut")
+( t1313 "en hiver versus dans l'hiver qui suivit")
+( t1314 "\"en\" ne se lie pas quand il suit le verbe")
+( t1315 "en plus, en moins, en trop, en Allemagne, en traître, en fonction , en coton, en larmes")
+( t1316 "en presque toutes les circonstances")
+( t1317 "en tout bien tout honneur")
+( t1318 "en toute amitié")
+( t1319 "en toute hâte")
+( t1320 "en toute impunité")
+( t1321 "en toute liberté")
+( t1322 "en toute simplicité")
+( t1323 "en toutes lettres")
+( t1324 "en tout et pour tout")
+( t1325 "entre-deux-guerres")
+( t1326 "entre le déterminant et son nom")
+( t1327 "entre le nom et l'adjectif qui le précède")
+( t1328 "entre le pronom personnel et son verbe")
+( t1329 "il est fier de lui")
+( t1330 "états-unis")
+( t1331 "états-unis ")
+( t1332 "et de deux !")
+( t1333 "et de deux  !"); AV 
+( t1334 "Et de trois ; celle-ci fut rude à arracher")
+( t1335 "et d'un !")
+( t1336 "êtes vous fou de lui parler sur ce ton ?")
+( t1337 "et L'Alambra")
+( t1338 "et Le Peletier")
+( t1339 "ex-agent")
+( t1340 "ex-caïd")
+( t1341 "exception à la française")
+( t1342 "facile comme tout")
+( t1343 "fast-food")
+( t1344 "feedback")
+( t1345 "Flots profonds, redoutés des mères à genoux. (Hugo)")
+( t1347 "un guet-apens")
+( t1348 "habillée tout en noir")
+( t1349 "Haï de beaucoup, mais chaudement protégé par quelques uns sans cependant être aimé de personne.")
+( t1350 "un hot-dog")
+( t1351 "http://consonne.com/voix/index3.php"); AC
+( t1352 "http://~maud.consonne.com/3index.htm"); AC
+( t1353 "https://festival.com/CBq/index.html"); AC
+( t1354 "https://glosbe.com/de/fr"); AC
+( t1355 "http://www.consonne.org"); AC
+( t1356 "Il a plu du 10 au 15")
+( t1357 "Il dit tout ce qui lui passe par la tête.")
+( t1358 "il en a beaucoup")
+( t1359 "il en a pris plus que toi.")
+( t1360 "il épousa le parasol")
+( t1361 "il est bon et brave")
+( t1362 "Il est d'un triste !")
+( t1363 "Il est honteux de mentir.")
+( t1364 "Il est honteux de tromper une femme aimante.")
+( t1365 "Il est innocent que je sache")
+( t1366 "il est question de _cent: 10 ¢")   ; utf8 2b
+( t1367 "il est question de dollars mais on devrait entendre aussi virgule : 0,56 $")
+( t1368 "il est question de franc belge  mais on devrait entendre aussi virgule et le zéro: 4,06 bfr")
+( t1369 "il est question de pourcent  mais on devrait entendre aussi virgule : 24,56 %")
+( t1370 "il est question de pourcent  mais on devrait entendre aussi virgule et deux fois zéro:  4,006%")
+( t1371 "il est question d'euro  mais on devrait entendre aussi virgule et le zéro: 45,06 €")
+( t1372 "il étale sa richesse aux yeux de tous.");
+( t1373 "Il faut de tout pour faire un monde.")
+( t1374 "il faut savoir ce que c'est de vivre dans les rues.")
+( t1375 "il faut supporter le supporter")
+( t1376 "Il l'aime")
+( t1377 "Il les a tous trompés")
+( t1378 "il manquerait")
+( t1379 "Il n'avait plus rien à faire, sinon que de disparaître.")
+( t1380 "Il ne fait rien de toute la journée.")
+( t1381 "Il ne laisse que des miettes")
+( t1382 "Il ne manquerait plus qu'il soit malade")
+( t1383 "Il ne sait quoi faire.")
+( t1384 "Il n'est jamais arrivé que le numéro sortît plus de sept fois de suite.")
+( t1385 "Il n'est pas plus vieux que lui")
+( t1386 "Il n'était pas plus ému que ça.")
+( t1387 "il ne vous eût pas été permis de vivre d'humeur, de tempérament")
+( t1388 "Il n'y a de certain que sa bonne volonté.")
+( t1389 "il n'y a plus de locutions ?")
+( t1390 "Il n'y a plus personne.")
+( t1391 "Il n  'y  en  a plus.")
+( t1392 "Il parlait encore que je lui avais déjà tourné le dos")
+( t1393 "il restera de juillet à septembre.")
+( t1394 "il resterait")
+( t1395 "Il s'agit premièrement de pourvoir au nécessaire, et puis au superflu ;")
+( t1396 "Il se mêle d'affaires qui ne le regardent pas.")
+( t1397 "il s'en ait pris")
+( t1398 "Ils espèrent tous.")
+( t1399 "Ils espèrent tous un changement")
+( t1400 "Ils étaient là tous les cinq")
+( t1401 "ils étaient tous les cinq")
+( t1402 "Ils étaitent tout à tous")
+( t1403 "ils furent bâtis")
+( t1404 "Ils ne mourraient pas tous.");
+( t1405 "ils ont été  bus dans le bus")
+( t1406 "Ils se connaisssent de ce matin.")
+( t1407 "ils s'enivrent")
+( t1408 "Ils sont presque tous morts")
+( t1409 "Ils sont tout étonnés")
+( t1410 "Ils veulent tous la lune");
+( t1411 "il va tout se salir")
+( t1412 "il vient")
+( t1413 "Il y a eu 1000 soldats de tués.")
+( t1414 "Il y a là tout ce que vous cherchez.")
+( t1415 "il y a une différence du tout au tout.")
+( t1416 "Il y a un mois que je ne l'ai vu")
+( t1417 "il y en avait seulement 120 de présents")
+( t1418 "Insensé que je suis")
+( t1419 "inventer de toutes pièces")
+( t1420 "Issu d'une bonne famille")
+( t1421 "J'ai agi de moi-même")
+( t1422 "j'ai faim, un essaim d'abeilles")
+( t1423 "J'ai fait de mon mieux.")
+( t1424 "J'ai lu tout \"Les Misérables\" et toute \"la Chartreuse des Parmes\"")
+( t1425 "J'aime mieux mourir que de souffrir.")
+( t1426 "J'ai tout prévu.")
+( t1427 "j'ai une autre idée à proposer")
+( t1428 "J'ai une heure de libre.")
+( t1429 "J'ai vu de grandes maisons.")
+( t1430 "Je connais toutes ces personnes")
+( t1431 "je connais vos amis, tous sont sympathiques.")
+( t1432 "Je désire ne plus le voir")
+( t1433 "Je dis que oui")
+( t1434 "Je fus surpris de votre refus.")
+( t1435 "je fus touché de voir tant de valeur, tant d'amour")
+( t1436 "je l'ai chantée bien souvent en leurs aspects diurnes et nocturnes.")
+( t1437 "je l'ai mangé")
+( t1438 "Je les connais tous.")
+( t1439 "Je les connais tous par leur prénom, ou tous de vue")
+( t1440 "je mourrai à regrets")
+( t1441 "j'en ai envoyé soixante-cinq hier")
+( t1442 "Je n'ai que faire des critiques.")
+( t1443 "je n'ai que faire de vos remarques.")
+( t1444 "je n'attends pas, moi non plus.")
+( t1445 "j'en connais une, de femme, qui vous donnerait raison.")
+( t1446 "je ne crois pas en \"l'autre monde\".")
+( t1447 "Je ne demande pas mieux que de le faire.")
+( t1448 "Je ne dirai plus rien")
+( t1449 "je ne fais pas des affaires pour faire de l'argent")
+( t1450 "Je ne l'ai jamais vu de ma vie")
+( t1451 "Je ne l'ai plus jamais vu.")
+( t1452 "Je ne  l'   ai       plus vu.")
+( t1453 "je ne le ferai jamais plus")
+( t1454 "Je ne  le   vois     plus")
+( t1455 "Je ne le vois plus")
+( t1456 "Je ne le vois plus du tout")
+( t1457 "je n'en ai pas, il  s'en amuse; le succès en est douteux")
+( t1458 "Je ne pouvais lui parler plus nettement, à moins que de le quereller.")
+( t1459 "Je ne savais que penser de ce discours.")
+( t1460 "je ne vois aucun autre moyen pour parvenir à mes fins")
+( t1461 "Je ne vous verrais pas de huit jours"); huit AV ?
+( t1462 "J'en veux plus.")
+( t1463 "Je n  'y ai plus d'intérêt")
+( t1464 "Je n'y ai plus d'intérêt")
+( t1465 "je pouvais avoir cinq ans")
+( t1466 "je préconise un jeûne pour ces jeunes obèses")
+( t1467 "Je reverrai tout cela.")
+( t1468 "c'est du jersey")
+( t1469 "Je sais qu'il est là.")
+( t1470 "je suis content, c'est excellent")
+( t1471 "Je suis tout à vous.")
+( t1472 "Je t'aime")
+( t1473 "je te porte dans moi comme un oiseau blessé")
+( t1474 "jet-set")
+( t1475 "J'irai plus")
+( t1476 "j'irais plus souvent au parc si je le pouvais")
+( t1477 "j'irais plus souvent si je le pouvais")
+( t1478 "Joint(e) à la présente.")
+( t1479 "jusqu'à quand")
+( t1480 "jusqu-où aller ?")
+( t1481 "j'y irais plus souvent si je le pouvais")
+( t1482 "kilo-hertz")
+( t1483 "kilohertz")
+( t1484 "kremlin")
+( t1485 "kugelhof")
+( t1486 "kumquat")
+( t1487 "kung-fu")
+( t1488 "La capitale royale n'est plus ravitaillée qu'à partir de Vientiane. (Le Monde)")
+( t1489 "la certitude qu'il resterait près de moi.")
+( t1490 "l'achat et la vente")
+( t1491 "La femme que je suis")
+( t1492 "l'affaire tout aussi prospère")
+( t1493 "la formule du tout-compris")
+( t1494 "laid à faire peur")
+( t1495 "la règle de non liaison avec ou est trop inflexible")
+( t1496 "L'argot est de plus instructif (Bruneau)")
+( t1497 "La situation de la Californie était des plus précaires.")
+( t1498 "La ville de Paris.")
+( t1499 "le 6 du mois d'avril")
+( t1500 "le bourg de bourg-en-bresse")
+( t1501 "le cep et son échalas")
+( t1502 "le cinq de pique")
+( t1503 "le complot du duc de Vendôme")
+( t1504 "le confinement aura lieu du 10 jusqu'au 15.")
+( t1505 "le grand tout")
+( t1506 "Le IIIe Reich")
+( t1507 "le jeu de cartes est biaisé")
+( t1508 "le livre d'anne")
+( t1509 "le livre de Pierre")
+( t1510 "le malaise date de ce jour-là.")
+( t1511 "le malaise date de cette époque.")
+( t1512 "le manège de bois")
+( t1600 "risquer le tout pour le tout")
+( t1601 "il y a une différence du tout au tout.")
+( t1601 "le grand tout")
+( t1602 "Mon tout.)
+( t1603 "Le tout est de bien finir.")
+( t1604 "tout ou partie de ce qu'il aura apporté."); avec déterminant sauf
+( t1605 "du tout")
+( t1606 "Je ne le vois plus du tout")
+( t1607 "Sans du tout savoir que c'était défendu")
+( t1608 "toute la nuit")
+( t1609 "toute une nuit")
+( t1610 "tout le monde le dit")
+( t1611 "c'est toute une affaire")
+( t1612 "c'est toute une histoire")
+( t1613 "de tout mon coeur")
+( t1614 "toute mon amitié")
+( t1615 "c'est tout bénéfice")
+( t1616 "s'étendre de tout son long")
+( t1617 "donner toute satisfaction")
+( t1618 "avoir tout intérêt à ")
+( t1619 "à toute allure"); tout ADJ Hanse
+( t1620 "en toute liberté") ; tout ADJ Hanse
+( t1621 "de toute éternité"); tout ADJ Hanse
+( t1622 "de tout repos"); tout ADJ Hanse
+( t1623 "dans toute la France"); tout ADJ Hanse
+( t1624 "tout Rome"); tout ADJ Hanse
+( t1625 "Tout Vian"); tout ADJ Hanse
+( t1626 "de tout quoi il résulte");
+( t1627 "Elle tremblait toute");
+( t1628 "Un voile qui la couvrait toute.");
+( t1629 "pour toute nourriture")
+( t1630 "pour tous gages");
+( t1631 "pour tout vêtement");
+( t1632 "le Tout-Paris");
+( t1633 "Toute Rome brûlait");
+( t1634 "Tout Rome brûlait");
+( t1635 "J'ai lu tout \"Les Misérables\" et toute \"la Chartreuse des Parmes\"")
+( t1640 "Je reverrai tout cela."); tout ADJ:ind Hanse  devant PRO:dem
+( t1641 "Tout ce que je sais."); tout ADJ:ind  Hanse  devant PRO:dem
+( t1642 "Il dit tout ce qui lui passe par la tête."); tout ADJ:ind Hanse  devant PRO:dem
+( t1643 "Tout le mal qu'il fait et tout celui qu'il peut faire"); tout ADJ Hanse  devant PRO:dem( t1640 ""); tout ADJ Hanse  devant PRO:dem
+( t1644 "Tous ceux qui l'ont vu "); tout ADJ:ind Hanse  devant PRO:dem
+( t1645 "C'est tout lui, c'est tout toi"); tout 
+( t1646 "De tout quoi on a dressé le procès-verbal."); tout ERR NOM !
+( t1647 "C'est tout ce de quoi j'ai besoin. (Malherbes)"); tout PRO:ind ERR
+( t1648 "Le tout quoi, tout ce dont il s'agit."); tout  pos ADV 
+( t1649 "En elle, il se  retrouve tout."); tout 
+( t1650 "En elle, elle se retrouve toute."); tout 
+( t1651 "Elles se faisaient toutes à leurs nouvelles voisines"); tout 
+( t1652 "Nous avons  tous nos défauts.");Robert ->PRO:ind ; ERRR
+( t1700 "2 121 456 790"); id _1 ; name "2" ; whitespace "" ; prepunctuation "" ; token_pos card_struc ; delete next ; \id _2 ; name "121" ; whitespace " " ; prepunctuation "" ; token_pos cardinal ; \ id _3 ; name "456" ; whitespace " " ; prepunctuation "" ; token_pos card_struc ; delete next ; \id _4 ; name "790" ; whitespace " " ; prepunctuation "" ; token_pos cardinal ;
+( t1701 "12 121 456 790"); AC erreur ("QTstruc3" "QTdelp" "QTnotinitblock" "QTnotinitblock"); et non pas struct4 !!!
+( t1702 "99 121 456 790"); AC Nombre trop grand ! why ?
+( t1703 "12 456"); ok avec id _1 ; name "12" ; whitespace "" ; prepunctuation "" ; token_pos card_struc ; delete next ; id _2 ; name "456" ; whitespace " " ; prepunctuation "" ; token_pos cardinal ;\et ("QTstruc2" "QTdelp")
+( t1704 "1 12 456") ; ok pas un bloc de 3: 1 douze quatre cinq six ("QTdiglist" "QTstruc2" "QTdelp")
+( t1705 "1 012 456"); ok ("QTstruc3" "QTdelp" "QTnotinitblock")
+( t1706 "42 12 456")
+( t1707 "42 012 456")
+( t1708 "2 021 456 790")
+( t1709 "2 121 056 790")
+( t1710 "2 121 056 000")
+( t1711 "2 121 056 90")
+( t1712 "120 456")
+( t1713 "120 056"); cent vingt mille cinquante six ok
+( t1714 "120 050")
+( t1715 "12 450");
+( t1715 "120 000"); cent vingt mille
+( t1716 "12 45");
+( t1717 "12 045")
+( t1718 "120 00"); AC pas bon cent vingt tout court; id _1 ; name "120" ; whitespace "" ; prepunctuation "" ; token_pos cardinal ; \id _2 ; name "00" ; whitespace " " ; prepunctuation "" ; token_pos cardinal ;\régler le pb des 0 initiaux ! t1006 
+( t1719 "0 012 456"); AC !! 12 sabré tp id _1 ; name "0" ; whitespace "" ; prepunctuation "" ; token_pos cardinal ; \id _2 ; name "012" ; whitespace " " ; prepunctuation "" ; token_pos cardinal ;  name zéro ; pos_index 13 ; pos_index_score 0 ; pos NOM ; name zéro ; pos_index 13 ; pos_index_score 0 ; pos NOM ;
+( t1720 "056"); id _1 ; name "056" ; whitespace "" ; prepunctuation "" ; token_pos cardinal ;  name zéro ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; plus de 56 !
+( t1721 "0")
+( t1722 "00"); id _1 ; name "00" ; whitespace "" ; prepunctuation "" ; token_pos cardinal ;  "nil" ;;(utt.flat_repr !) ""
+( t1723 "000")
+( t1724 "0000")
+( t1725 "00 1000")
+( t1726 "99 121 456 790") ; (SayText  "99 121 456 790"); ("QTnotinitblock" "QTnotinitblock" "QTnotinitblock") ; erreur 121 notinitblock !! hmm nombre trop grand; QTstruc4?  four blocks ? |99|
+( t1727 "9 121 456 790"); ("QTstruc3" "QTdelp" "QTnotinitblock" "QTnotinitblock"); ; à l'air ok sauf que 9 est vu comme  first of 3 blocks c'est un first before 3 blocks
+
+( t1900 "un problème de plus.")
+( t1901 "ils s'enivrent")
+( t1902 "sers-en un coup.")
+( t1903 "il manquerait quelque chose.")
+( t1904 "resterait pas grand-chose")
+
+
+( t1908 "un Demi-hiatus ? c'est la rencontre de deux voyelles dissimulée par une élision: par exemple \"la joie éclate en ses yeux\" ")
+( t1909 "Vous serez bien aises de savoir que j'arrivai ici hier")
+( t1910 "je mourrai à regrets")
+( t1911 "On le sentira comme une erreur de prononciation (et non comme une liberté prise par rapport à la norme)")
+( t1912 "l'omission d'une telle liaison est obligatoire quel que soit le registre de langue (de la langue soutenue à la langue vulgaire)")
+( t1913 "entre le nom et l'adjectif qui le précède, comme \"un grand arbre\" ou \"petits enfants\")
+( t1914 "nous avons envie de rire")
+( t1915 "elles aiment les bonbons acidulés.")
+( t1916 "on ouvre les hostilités ?")
+( t1917 "Ont-ils décidé de nous harceler ?")
+( t1918 "nous l'avons averti de la situation?")
+( t1919 "elles sont arrivées à la même conclusion")
+( t1920 "je n'en ai pas et il  s'en amuse")
+( t1921 "le succès en est douteux")
+( t1922 "encore une exception à la française"")
+( t1923 "le livre d'anne ")
+( t1924 "le livre de Pierre")
+( t1925 "Digne d'estime.")
+( t1926 "Avide de gloire")
+( t1927 "Altéré de sang")
+( t1928 "Je suis mécontent de moi")
+( t1929 " vides de sentiments")
+( t1930 " vides de sentiments")
+( t1931 "D'un facile bonheur faisant sa seule étude")
+( t1932 "lequel d'entre nous est le plus à plaindre ,")
+( t1933 "lequel des deux la rendrait la plus heureuse ?")
+( t1934 "Peut-être êtes-vous de ces hommes qui n'aiment qu'eux-mêmes et qui n'ont égard qu'à leur intérêt propre"); AC n_aiment pas VER, n_ont si 
+( t1935 "Et de trois ; celle-ci fut rude à arracher")
+( t1936 "Il se mêle d'affaires qui ne le regardent pas")
+( t1937 "Il est pourtant issu d'une bonne famille")
+( t1938 "Distinguer l'ami d'avec le flatteur")
+( t1939 "Vous m'avez chassé de chez moi")
+( t1940 "en vertu de l'autorité du roi")
+( t1941 "De quand est cette lettre ?")
+( t1942 "Ce sont des Effets qui diffèrent quand la lune est pleine de quand elle est nouvelle")
+( t1943 "de cela même qu'ils étaient demeurés imparfaits.")
+( t1944 "Flots profonds, redoutés des mères à genoux.")
+( t1945 "Ce que j'ai à vous dire ne doit être entendu que de vous")
+( t1946 "Un énorme globe terrestre entouré de deux anneaux de carton.")
+( t1947 "Nous serions abandonnés de nos familles")
+( t1948 "Haï de beaucoup, mais chaudement protégé par quelques uns sans cependant être aimé de personne")
+( t1949 "Elle se sentait gagnée d'une colère froide")
+( t1950 "le malaise date de ce jour-là.")
+( t1951 "le malentendu date de cette époque")
+( t1952 "Ce n'est pas d'aujourd'hui que je le connais")
+( t1953 "il restera de juillet à septembre")
+( t1954 "Ils se connaisssent de ce matin")
+( t1955 "Se lever de bon matin relève d'une bonne hygiène.")
+( t1956 "quand j'étais jeune, répétait-il à n'importe quelle occasion")
+( t1957 "Sur la pente fatale où une erreur démesurée nous avait de longtemps  engagés")
+( t1958 "Il ne fait rien de toute la journée.")
+( t1959 "Je ne l'ai jamais revu de ma vie")
+( t1960 "j'en connais une, de femme, qui vous donnerait raison.")
+( t1961 "Voilà une semaine de passée")
+( t1962 "encore un mois de passé")
+( t1963 "un de perdu, dix de retrouvés")
+( t1964 "des livres, j'en ai de reliés.")
+( t1965 "il y en avait seulement 120 de présents")
+( t1966 "si ce n'est toi, qui d'autre l'aurait fait ?")
+( t1967 "Quoi d'étonnant ?")
+( t1968 "Il n'y a de certain que sa bonne volonté. Il manque juste d'un peu de talent;")
+( t1969 "Ce livre n'a d'intéressant que ces illustrations")
+( t1970 "pauvre de moi !")
+( t1971 "et d'un !")
+( t1972 "J'ai fait de mon mieux.")
+( t1973 "J'ai agi de moi-même")
+( t1974 "J'ai agi de mon propre chef.")
+( t1975 "Peste soit du bavard")
+( t1976 "C'est à vous de jouer")
+( t1977 "êtes vous fou de lui parler sur ce ton ?")
+( t1978 "Il est honteux de tromper une femme aimante.")
+( t1979 "L'essentiel est de lui dire.")
+( t1980 "C'est son projet de capter votre confiance.")
+( t1981 "Ainsi dit le renard, et les flatteurs d'applaudir")
+( t1982 "Je ne pouvais lui parler plus nettement, à moins que de le quereller.")
+( t1983 "Je fus surpris de votre refus.")
+( t1984 "Les héritiers des Orléans")
+( t1985 "le complot du duc de Vendôme")
+( t1986 "j'en veux plus et toi tu n'en veux pas plus, on peut s'arranger, non ?")
+( t1987 "Que dix lustres et plus n'ont pas tout emporté.")
+( t1988 "toutes ces distinctions n'ont plus d'utilité")
+( t1989 "je n'attends pas, moi non plus.")
+( t1990 "Il n'était pas plus ému que ça")
+( t1991 "je ne le ferai jamais plus")
+( t1992 "sans plus se soucier des autres, il se mit à chanter.")
+( t1993 "Je ne dirai plus rien")
+( t1994 "Pas plus difficile que cela ! Il fallait y penser.")
+( t1995 "Plus un sou en caisse, c'est la cata")
+( t1996 "On ne  se  comprend plus.")
+( t1997 "Ils ne se comprennent plus du tout.")
+( t1998 "Je n  'y ai plus d'intérê")
+( t1999 "Il n'y a plus personne pour me défendre")
+( t2000 "en moins de rien il était parterre") ; en_moins_de_rien ADV
+( t2010 "tout à coup il disparut"); tout_à_coup ; pos_index 6 ; pos_index_score 0 ; pos ADV ;
+( t2020 "il est persona non grata dans tous les salons"); persona_non_grata ; pos_index 13 ; pos_index_score 0 ; pos NOM ;
+( t2030 "la plupart du temps il était hostile à mon encontre"); expression2
+( t2040 "on pouvait d'ores et déjà affirmer qu'il avait du caractère"); Ok
+( t2050 "le face à face redouté allait avoir lieu")
+( t2060 "il a posé une condition pour ainsi dire sine qua non"); sine_qua_non ADJ
+( t2070 "quarante et un individus se levèrent un à un "); quarante_et_un ;  pos ADJ:num un_à_un  ADV
+( t2200 "il s'introduisit en catamini"); en_catamini pas dans le poslex seulement dans la liste expressions catamini ADV
+( t2210 "des pâtes al dente"); al_dente ADV ok
+( t3000 "c'est fort")
+( t3001 "c'est n'importe quoi")
+( t3010 "il peut arriver n'importe quand")
+( t3020 "il n'y a pas d'issue")
+( t3030 "il n'y en a guère")
+( t3040 "j'irais jusqu'au bout")
+( t3050 "a-t'elle assez mangé")
+( t3060 "la croissance économique demeurera toujours la seule véritable source de mieux-être")
+( t3070 "ton mieux-être je m'en fous")
+( t3080 "il l'envoya ad patres en moins de deux")
+( t3090 "aujourd'hui, c'est dimanche.")
+( t3100 "Tu es mon alter ego")
+( t3101 "Vous êtes son alter-ego")
+( t3110 "auquel cas, il faudra agir")
+( t3120 "nous sommes  aux aguets")
+( t3130 "il fallait arriver avant hier")
+( t3131 "avant-hier ou avant-avant-hier ?")
+( t3140 "ce sont ses ayants-droits à qui il faut en réferer")
+( t4000 "il était écrit ©")
+( t4010 "on voyait écrit ®")    ;
+( t4020 "33 °, c'est trop chaud !")
+( t4020 "33°, c'est trop tièdasse !")
+( t4100 "il s'agit de 1 Livre")  ; AC un à la place de une  ? un à cause de la majuscule ? hmm
+( t4101 "il s'agit de 1 £") ; fcorrection _pound fem    ok
+( t4103 "à l'époque cela valait 1DM")
+( t4110 "un billet de 1US$");    OK      AC 	américain ; id _10 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ;  .00000e+00 26 	_ ; id _11 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; pbreak B
+( t4111 "un billet de 1 US$"); Ok
+( t4112 "il ne faut pas confondre kan$ et US$"); OK
+( t4113 "Donnez-moi 1kg de myrtilles"); AC wordroot de donnez VER n'est pas donné
+( t5000 "le problème semble résolu"); Le ART:def
+( t5010 "je veux celui-ci"); celui_ci ;  pos PRO:dem ;
+( t5011 "je te parle de ce livre-ci")  ; ce ADJ:dem livre_ci NOM
+( t5020 "ceux-ci se révélèrent odieux")  ; ceux pos PRO:dem ci ADV
+( t5030 "ce qui me chagrine"); id _5 ; name ce  pos PRO:dem ;  name qui pos PRO:rel ;
+( t5031 "ce qui m'intéresse")
+( t5040 "je ne sais pas ce qu'il en pense")
+( t5050 "ce qui veut dire que tu plaisantes") ; name ce ; pos PRO:dem ; name qui ; pos PRO:rel ;name que ;  pos CON ;
+( t5080 "ceux qui veulent la lune")   ;ceux pos PRO:dem qui PRO:rel
+( t5090 "nous devons entretenir le jardin")
+( t5091 "nous devons l'entretenir")  ; pas la place nécessite QTbefapo
+( t5092 "nous devons lui plaire")
+( t5192 "Monsieur Cheval était facteur") 
+( t5194 "Maguerite Duras est une femme de lettres")
+( t5195 "Vous en doutez ? Maguerite Duras est une femme de lettres")
+( t6191 "Quand céder ?")
+( t6192 "quand reviendra le printemps, nous ferons la fête.")
+( t6193 "quand reviendra le printemps ?")
+( t6194 "quand reviendra-t'il")
+( t6195 "Lequel a tué son frère ")
+( t6197 "Lequel de vous deux est le coupable ?")
+( t6199 "Qui a faim ?")
+( t6200 "Celui qui m'a volé mon vélo aura la tête tranchée")
+( t6205 "Dequels parlez-vous ?")
+( t6207 "De quel vélo parlez-vous ?")
+( t6209 "Celui duquel vous tombâtes ?")
+( t6220 "voici un adj. à la pp. 4 ?") ; mauvaise typo tant pis
+( t6221 "voici un adj. à la pp. 4 ?")  ; un point reste collé !!
+( t6230 "voici un adj.")
+( t6231 "c'est un adj. ?"); pas bon
+( t6232 "Réponds S.T.P.")
+( t6233 "S.M. la mouche")
+( t6236 "Mr. O'Brian")   ; pas bon      majuscule ; id _7 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ;
+( t6236 "Pr. Tartempion")
+( t6238 "M. Duras"); infaisable Marcel / Monsieur /Marguerite
+( t6250 "C'est la fin du projet.C'est aussi la fin du gaspillage des deniers publics")  ; avec erreur typo pas OK projet_est: on perd le C' en cause un  name projet ; whitespace " " ; prepunctuation "" ; punc . ; delete next ; token_pos cardinal ;
+( t6251 "C'est la fin du projet.En revanche, la manne des sponsors renfloue notre trésorerie")  ; erreur typo tant pis
+( t6253 "de l'aigrefeuille-d'aunis")
+( t7000 "il fait chaud, n'est ce pas")
+( t7002 "faute de quoi, il partira")
+( t8000 "le sultan du Maroc")
+( t8002 "le roi d'Argentine")
+( t8003 "le papyrus d'Arménie") ; TODO même pos pour d_X que celui de X
+( t8004 "le papier d'arménie")
+( t8005 "un chef d'oeuvre incontestable") ;AC hmm
+( t8006 "un chef d'industrie contesté")
+( t9004 "un jeu de cartes à jouer")
+( t9005  "ce jeu de cartes a trois cartes manquantes ")
+( t9007 "5,1 année")
+( t9009 "5,1 années-homme")
+( t9012 "5,1 année-lumière")
+( t9013 "61 années")
+( t9013 "61 années-lumière")

@@ -1,0 +1,8 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	De ; id _5 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	quel ; id _6 ; pos_index 3 ; pos_index_score 0 ; pos ADJ:int ; 
+	0.00000e+00 26 	vélo ; id _7 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	parlez ; id _8 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	vous ; id _9 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; pbreak B ; 

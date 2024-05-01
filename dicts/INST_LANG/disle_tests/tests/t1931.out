@@ -1,0 +1,10 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	D_un ; id _9 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	facile ; id _10 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	bonheur ; id _11 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	faisant ; id _12 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	sa ; id _13 ; pos_index 5 ; pos_index_score 0 ; pos ADJ:pos ; 
+	0.00000e+00 26 	seule ; id _14 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	étude ; id _15 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

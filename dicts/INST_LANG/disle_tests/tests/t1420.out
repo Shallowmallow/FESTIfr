@@ -1,0 +1,7 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Issu ; id _6 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	d_une ; id _7 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	bonne ; id _8 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	famille ; id _9 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

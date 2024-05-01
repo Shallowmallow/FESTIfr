@@ -1,0 +1,11 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	compter ; id _9 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	non ; id _10 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	plus ; id _11 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	par ; id _12 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	syllabes ; id _13 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	mais ; id _14 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	par ; id _15 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	mots ; id _16 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

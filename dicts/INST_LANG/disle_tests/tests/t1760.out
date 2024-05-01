@@ -1,0 +1,19 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Où ; id _20 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	se ; id _21 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	trouve ; id _22 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	l_ile ; id _23 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	du ; id _24 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	Levant ; id _25 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	ce ; id _26 ; pos_index 16 ; pos_index_score 0 ; pos PRO:dem ; 
+	0.00000e+00 26 	n_est ; id _27 ; pos_index 9 ; pos_index_score 0 ; pos AUX ; 
+	0.00000e+00 26 	pas ; id _28 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	à ; id _29 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	moi ; id _30 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	qu_il ; id _31 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	faut ; id _32 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	poser ; id _33 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	la ; id _34 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	question ; id _35 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

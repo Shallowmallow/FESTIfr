@@ -1,0 +1,5 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	donne_m ; id _3 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	en ; id _4 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; pbreak B ; 

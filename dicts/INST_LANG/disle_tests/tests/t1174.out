@@ -1,0 +1,20 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	De ; id _20 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	ce ; id _21 ; pos_index 16 ; pos_index_score 0 ; pos PRO:dem ; 
+	0.00000e+00 26 	que ; id _22 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	je ; id _23 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	n_en ; id _24 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	parle ; id _25 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	pas ; id _26 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	cela ; id _27 ; pos_index 16 ; pos_index_score 0 ; pos PRO:dem ; 
+	0.00000e+00 26 	ne ; id _28 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	veut ; id _29 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	pas ; id _30 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	dire ; id _31 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	que ; id _32 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	je ; id _33 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	n_y ; id _34 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	songe ; id _35 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	plus ; id _36 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; pbreak B ; 

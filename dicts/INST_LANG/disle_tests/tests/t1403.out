@@ -1,0 +1,6 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	ils ; id _4 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	furent ; id _5 ; pos_index 9 ; pos_index_score 0 ; pos AUX ; 
+	0.00000e+00 26 	bâtis ; id _6 ; pos_index 22 ; pos_index_score 0 ; pos VER ; pbreak B ; 

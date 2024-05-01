@@ -1,0 +1,18 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	Cette ; id _17 ; pos_index 1 ; pos_index_score 0 ; pos ADJ:dem ; 
+	0.00000e+00 26 	situation ; id _18 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	déplorable ; id _19 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	devrait ; id _20 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	se ; id _21 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	résorber ; id _22 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	semble_t_il ; id _23 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	avec ; id _24 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	l_arrivée ; id _25 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	des ; id _26 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	boomers ; id _27 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	et ; id _28 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	des ; id _29 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	générations ; id _30 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	suivantes ; id _31 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; pbreak B ; 

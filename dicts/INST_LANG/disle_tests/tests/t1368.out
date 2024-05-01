@@ -1,0 +1,24 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	il ; id _19 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	est ; id _20 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	question ; id _21 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	de ; id _22 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	franc ; id _23 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	belge ; id _24 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	mais ; id _25 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	on ; id _26 ; pos_index 19 ; pos_index_score 0 ; pos PRO:per ; 
+	0.00000e+00 26 	devrait ; id _27 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	entendre ; id _28 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	aussi ; id _29 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	virgule ; id _30 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	et ; id _31 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	le ; id _32 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	zéro ; id _33 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	quatre ; id _34 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	virgule ; id _35 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	zéro ; id _37 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	six ; id _39 ; pos_index 4 ; pos_index_score 0 ; pos ADJ:num ; 
+	0.00000e+00 26 	Franc ; id _40 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	belge ; id _41 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

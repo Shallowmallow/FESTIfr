@@ -1,0 +1,23 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	La ; id _22 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	mise ; id _23 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	hors_circuit ; id _24 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	des ; id _25 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	personnes ; id _26 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	illettrées ; id _27 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	brutalement ; id _28 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	retranchées ; id _29 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	des ; id _30 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	réseaux ; id _31 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	culturels ; id _32 ; pos_index 0 ; pos_index_score 0 ; pos ADJ ; 
+	0.00000e+00 26 	ne ; id _33 ; pos_index 6 ; pos_index_score 0 ; pos ADV ; 
+	0.00000e+00 26 	fait ; id _34 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	qu_appauvrir ; id _35 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	et ; id _36 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	ces ; id _37 ; pos_index 1 ; pos_index_score 0 ; pos ADJ:dem ; 
+	0.00000e+00 26 	individus ; id _38 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; 
+	0.00000e+00 26 	et ; id _39 ; pos_index 10 ; pos_index_score 0 ; pos CON ; 
+	0.00000e+00 26 	la ; id _40 ; pos_index 7 ; pos_index_score 0 ; pos ART:def ; 
+	0.00000e+00 26 	société ; id _41 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

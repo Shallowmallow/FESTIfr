@@ -1,0 +1,6 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	n_importe_qui ; id _7 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	fera ; id _8 ; pos_index 22 ; pos_index_score 0 ; pos VER ; 
+	0.00000e+00 26 	l_affaire ; id _9 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

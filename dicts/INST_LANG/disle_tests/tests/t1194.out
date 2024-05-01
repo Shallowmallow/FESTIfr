@@ -1,0 +1,6 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	depuis ; id _4 ; pos_index 15 ; pos_index_score 0 ; pos PRE ; 
+	0.00000e+00 26 	une ; id _5 ; pos_index 8 ; pos_index_score 0 ; pos ART:ind ; 
+	0.00000e+00 26 	heure ; id _6 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 

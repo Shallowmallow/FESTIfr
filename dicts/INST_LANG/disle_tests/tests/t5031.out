@@ -1,0 +1,6 @@
+separator ;
+nfields 1
+#
+	0.00000e+00 26 	ce ; id _5 ; pos_index 16 ; pos_index_score 0 ; pos PRO:dem ; 
+	0.00000e+00 26 	qui ; id _6 ; pos_index 21 ; pos_index_score 0 ; pos PRO:rel ; 
+	0.00000e+00 26 	m_intéresse ; id _7 ; pos_index 13 ; pos_index_score 0 ; pos NOM ; pbreak B ; 
