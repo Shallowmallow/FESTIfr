@@ -26,7 +26,7 @@
 (lex.add.entry '("démarche" nil ((("d" "e") 0) (("m" "a" "rh" "sh") 0))))
 (lex.add.entry '("exigeant" nil ((("eh" "g") 0) (("z" "i") 0) (("zh" "ahn") 0))))
 (lex.add.entry '("geste" nil ((("zh" "eh" "s" "t") 0))))
-(lex.add.entry '("handicap" nil ((("hs" "ahn") 0) (("d" "i") 0) (("k" "a") 0))))
+(lex.add.entry '("handicap" nil ((("hs" "ahn") 0) (("d" "i") 0) (("k" "a" p) 0))))
 (lex.add.entry '("investissement" nil ((("ehn") 0) (("v" "eh" "s") 0) (("t" "i" "s") 0) (("m" "ahn") 0))))
 (lex.add.entry '("l_isolement" nil ((("l" "i") 0) (("z" "oh" "l") 0) (("m" "ahn") 0))))
 (lex.add.entry '("l_épuisement" nil ((("l" "e") 0) (("p" "hw" "i" "z")0) (( "m" "ahn") 0))))

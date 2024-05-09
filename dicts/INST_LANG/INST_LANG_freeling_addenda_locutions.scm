@@ -1,3 +1,4 @@
+; /dicts/INST_LANG/INST_LANG_freeling_addenda_locutions.scm
        ;;;;;;;;;;;;; Des locutions adverbiales :
     ; Tout à fait, d'ores et déjà, de temps en temps, tout de suite, de gré ou de force, ne pas, ne jamais, ne plus, sans doute, on ne peut plus…
 
@@ -256,10 +257,10 @@
 ;   (lex.add.entry '("traveller's_chèque" ((NOM -6.163) ) () ))
 ;   (lex.add.entry '("tout_au_plus" ((ADV 0) ) () ))
 ;   (lex.add.entry '("tout_autant" ((ADV 0) ) () ))
-;   (lex.add.entry '("tout_ou_rien" ((ADV -5.782) ) () ))
+   (lex.add.entry '("tout_ou_rien" ((ADV -5.782) ) () ))
 ;   (lex.add.entry '("tout_à_chacun" ((ADV -5.782) ) () ))
 ;   (lex.add.entry '("tout_à_coup" ((ADV -5.782) ) () ))
-;   (lex.add.entry '("tout_à_l'heure" ((ADV -5.782) ) () ))
+(lex.add.entry '("tout_à_l_heure" ((ADV -5.782) ) () ))
 ;   (lex.add.entry '("tutti_frutti" ((ADV -5.782) ) () ))
 ;   (lex.add.entry '("tutti_quanti" ((ADV -5.840) ) () ))
 ;   (lex.add.entry '("urbi_et_orbi" ((ADV -6.384) ) () ))

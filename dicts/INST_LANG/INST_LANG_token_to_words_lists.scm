@@ -1638,6 +1638,7 @@
     "tout_à_chacun"; pos
     "tout_à_coup"; pos
     "tout_à_fait"; pos
+
     "un_à_un" ; à cause des liaisons
     "urbi_et_orbi"
     "vingt_et_un"
@@ -1666,6 +1667,7 @@
 (set! french_multiple_word_expressions3 
   ; pour mémoire ne marche pas 
   (list 
+    "tout_à_l_heure"; pos   
     "en_moins_de_rien" ; adv de temps
     "y_a_t_il"
 

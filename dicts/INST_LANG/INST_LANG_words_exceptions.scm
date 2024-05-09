@@ -509,9 +509,10 @@
   (if (member_string na_next_word (list "un"))
        t
        nil))
-
+; je pense |également| à la création
+; |à jeun| aujourd'hui ;  (is_exception_ADV->PRE "à_jeun" "aujourd_hui") nil
 (define (is_exception_ADV->PRE na_word na_next_word)
-   (if (member_string na_word (list "à_jeun" "loin" "z_y")); |loin| avec, |z_y| en courant:  probablement tous serait safe
+   (if (member_string na_word (list "à_jeun" "loin" "z_y" "également")); |loin| avec, |z_y| en courant:  probablement tous serait safe
        nil
        t))
 
@@ -538,7 +539,7 @@
 (defvar is_exception_NAM->AUX (complement identity))
 (defvar is_exception_NAM->CON identity)
 (defvar is_exception_NAM->LIA identity)
-(defvar is_exception_NAM->NAM identity)
+(defvar is_exception_NAM->NAM (complement identity)); Benoît Hamon
 (defvar is_exception_NAM->NOM identity)
 (defvar is_exception_NAM->ONO identity)
 (defvar is_exception_NAM->PRE identity)
@@ -578,9 +579,12 @@
   ; Q never neut_parl_s01_0460 ceux et celles possible locution
        nil)
 
+; liaisons dites optionnelles       
 (defvar is_exception_PRO:ind->PRE_tab
   '( ; un à trois ans ; compter de un en un: to be safe
+	 ; je n'ai rien à vous reprocher
     ("un" . ("à" "en") )
+    ("rien" . ("à") )
    ))
 
 (define (is_exception_PRO:ind->PRE na_word na_next_word)
@@ -655,11 +659,17 @@
             (member_string (french_downcase_string na_word) (list "en")))
             nil t))  
 
+; livre |blanc| européen    nil        
 (define (is_exception_ADJ->ADJ na_word na_next_word)
-    (if (or (member_string na_word never_exception_list)
-            (member_string (french_downcase_string na_word) (list "tout")))
-            nil t)) 
-
+    (if (or (is_exclus*-> na_next_word) (is_exclus->* na_word))
+            
+	nil
+	(begin
+	(if (member_string (french_downcase_string na_word) (list "tout"))
+	t))))
+            
+            
+            
 (define (is_exception_ADJ->ADJ:dem na_word na_next_word))
 
 (define (is_exception_ADJ->ADJ:ind na_word na_next_word))
@@ -682,7 +692,7 @@
 
 (define (is_exception_ADJ->NAM na_word na_next_word))
 
-;(define (is_exception_ADJ->NOM na_word na_next_word))
+;(define (is_exception_ADJ->NOM na_word na_next_word));
 
 
 (define (is_exception_ADJ->ONO na_word na_next_word))
@@ -939,52 +949,136 @@
 (define (is_exception_ADJ:pos->VER na_word na_next_word))
 ;;
 
-(define (is_exception_ADV->ADJ na_word na_next_word))
+(define (is_exception_ADV->ADJ na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ADV->ADJ:dem na_word na_next_word))
+(define (is_exception_ADV->ADJ:dem na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ADV->ADJ:ind na_word na_next_word))
+(define (is_exception_ADV->ADJ:ind na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ADV->ADJ:int na_word na_next_word))
+(define (is_exception_ADV->ADJ:int na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ADV->ADJ:num na_word na_next_word))
+(define (is_exception_ADV->ADJ:num na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ADV->ADJ:pos na_word na_next_word))
+(define (is_exception_ADV->ADJ:pos na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+; |également|  à jeun ; à jeun locution ADV; (is_exception_ADV->PRE "également" "à_jeun")    nil
+; |très| amicalement ; (is_exception_ADV->ADV "très" "amicalement") t
+(define (is_exception_ADV->ADV na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word)
+            (member_string na_next_word (list "à_jeun")))
+        nil
+        t))
 
-(define (is_exception_ADV->ADV na_word na_next_word))
 
-; bien au contraire; bien au lit, 
-
+; bien au contraire; bien au lit, bien au milieu; (is_exception_ADV->ART:def "bien" "au")  t
+; maintenant au fond ; (is_exception_ADV->ART:def "maintenant" "au") nil
 (define (is_exception_ADV->ART:def na_word na_next_word) 
-   (if (or (member_string na_word never_exception_list) (member_string na_word (list "bien")))  nil  t))
+    (if (or (is_exclus*-> na_next_word) (is_exclus->* na_word))
+            
+	nil
+	(begin
+	(if (member_string (french_downcase_string na_word) (list "bien"))
+	t))))
 
-(define (is_exception_ADV->ART:ind na_word na_next_word))
+	
+	
+	
+	
+(define (is_exception_ADV->ART:ind na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ADV->AUX na_word na_next_word))
+(define (is_exception_ADV->AUX na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ADV->CON na_word na_next_word))
+(define (is_exception_ADV->CON na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ADV->NAM na_word na_next_word))
+(define (is_exception_ADV->NAM na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ADV->NOM na_word na_next_word))
+(define (is_exception_ADV->NOM na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ADV->ONO na_word na_next_word))
+(define (is_exception_ADV->ONO na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
 ;(define (is_exception_ADV->PRE na_word na_next_word)
 ;        (complement identity))
 
-(define (is_exception_ADV->PRO:dem na_word na_next_word))
+(define (is_exception_ADV->PRO:dem na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ADV->PRO:ind na_word na_next_word))
+(define (is_exception_ADV->PRO:ind na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ADV->PRO:int na_word na_next_word))
+(define (is_exception_ADV->PRO:int na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
 ;(define (is_exception_ADV->PRO:per na_word na_next_word)
 ;        (complement identity))
 
-(define (is_exception_ADV->PRO:pos na_word na_next_word))
+(define (is_exception_ADV->PRO:pos na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ADV->PRO:rel na_word na_next_word))
+(define (is_exception_ADV->PRO:rel na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
 ;(define (is_exception_ADV->VER na_word na_next_word)
 ;        (complement identity))
@@ -996,25 +1090,65 @@
         nil
         t)) 
 
-(define (is_exception_ART:def->ADJ:dem na_word na_next_word))
+(define (is_exception_ART:def->ADJ:dem na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:def->ADJ:ind na_word na_next_word))
+(define (is_exception_ART:def->ADJ:ind na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:def->ADJ:int na_word na_next_word))
+(define (is_exception_ART:def->ADJ:int na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:def->ADJ:num na_word na_next_word))
+(define (is_exception_ART:def->ADJ:num na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:def->ADJ:pos na_word na_next_word))
+(define (is_exception_ART:def->ADJ:pos na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:def->ADV na_word na_next_word))
+(define (is_exception_ART:def->ADV na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:def->ART:def na_word na_next_word))
+(define (is_exception_ART:def->ART:def na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:def->ART:ind na_word na_next_word))
+(define (is_exception_ART:def->ART:ind na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:def->AUX na_word na_next_word))
+(define (is_exception_ART:def->AUX na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:def->CON na_word na_next_word))
+(define (is_exception_ART:def->CON na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
 (define (is_exception_ART:def->ADJ na_word na_next_word)
     (if (member_string (french_downcase_string na_next_word) (list "autres"))
@@ -1027,49 +1161,125 @@
         nil
         t))
 
-(define (is_exception_ART:def->ONO na_word na_next_word))
+(define (is_exception_ART:def->ONO na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:def->PRE na_word na_next_word))
+(define (is_exception_ART:def->PRE na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:def->PRO:dem na_word na_next_word))
+(define (is_exception_ART:def->PRO:dem na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
 (define (is_exception_ART:def->PRO:ind na_word na_next_word)
     (if (member_string (french_downcase_string na_next_word) (list "uns" "unes" "autres"))
           t
           nil))
 
-(define (is_exception_ART:def->PRO:int na_word na_next_word))
+(define (is_exception_ART:def->PRO:int na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:def->PRO:per na_word na_next_word))
+(define (is_exception_ART:def->PRO:per na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:def->PRO:pos na_word na_next_word))
+(define (is_exception_ART:def->PRO:pos na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:def->PRO:rel na_word na_next_word))
+(define (is_exception_ART:def->PRO:rel na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:def->VER na_word na_next_word))
+(define (is_exception_ART:def->VER na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 ;;
 
-(define (is_exception_ART:ind->ADJ na_word na_next_word)  nil); (if (member_string na_word never_exception_list)  nil  t))
+(define (is_exception_ART:ind->ADJ na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:ind->ADJ:dem na_word na_next_word))
+(define (is_exception_ART:ind->ADJ:dem na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:ind->ADJ:ind na_word na_next_word))
+(define (is_exception_ART:ind->ADJ:ind na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:ind->ADJ:int na_word na_next_word))
+(define (is_exception_ART:ind->ADJ:int na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:ind->ADJ:num na_word na_next_word))
+(define (is_exception_ART:ind->ADJ:num na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:ind->ADJ:pos na_word na_next_word))
+(define (is_exception_ART:ind->ADJ:pos na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:ind->ADV na_word na_next_word))
+(define (is_exception_ART:ind->ADV na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:ind->ART:def na_word na_next_word))
+(define (is_exception_ART:ind->ART:def na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:ind->ART:ind na_word na_next_word))
+(define (is_exception_ART:ind->ART:ind na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:ind->AUX na_word na_next_word))
+(define (is_exception_ART:ind->AUX na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_ART:ind->CON na_word na_next_word))
+(define (is_exception_ART:ind->CON na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
 (define (is_exception_ART:ind->NAM na_word na_next_word) 
         (complement identity))
@@ -1077,18 +1287,66 @@
 ;(define (is_exception_ART:ind->NOM na_word na_next_word)
 ;        (complement identity))
 
-(define (is_exception_ART:ind->ONO na_word na_next_word))
-(define (is_exception_ART:ind->PRE na_word na_next_word))
-(define (is_exception_ART:ind->PRO:dem na_word na_next_word))
-(define (is_exception_ART:ind->PRO:ind na_word na_next_word))
-(define (is_exception_ART:ind->PRO:int na_word na_next_word))
-(define (is_exception_ART:ind->PRO:per na_word na_next_word))
-(define (is_exception_ART:ind->PRO:pos na_word na_next_word))
-(define (is_exception_ART:ind->PRO:rel na_word na_next_word))
-(define (is_exception_ART:ind->VER na_word na_next_word))
-(define (is_exception_AUX->ADJ na_word na_next_word))
-(define (is_exception_AUX->ADV na_word na_next_word))
-(define (is_exception_AUX->AUX na_word na_next_word)) 
+(define (is_exception_ART:ind->ONO na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_ART:ind->PRE na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_ART:ind->PRO:dem na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_ART:ind->PRO:ind na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_ART:ind->PRO:int na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_ART:ind->PRO:per na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_ART:ind->PRO:pos na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_ART:ind->PRO:rel na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_ART:ind->VER na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_AUX->ADJ na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_AUX->ADV na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_AUX->AUX na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t)) 
 
 ;: chgt vérifier les addendas !
 ; ; entre les auxiliaires avoir et être et le participe passé 
@@ -1105,29 +1363,109 @@
         nil
         t))
 ;;
-(define (is_exception_CON->ADJ na_word na_next_word))
-(define (is_exception_CON->ADJ:dem na_word na_next_word))
-(define (is_exception_CON->ADJ:ind na_word na_next_word))
-(define (is_exception_CON->ADJ:int na_word na_next_word))
-(define (is_exception_CON->ADJ:num na_word na_next_word))
-(define (is_exception_CON->ADJ:pos na_word na_next_word))
-(define (is_exception_CON->ADV na_word na_next_word))
+(define (is_exception_CON->ADJ na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_CON->ADJ:dem na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_CON->ADJ:ind na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_CON->ADJ:int na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_CON->ADJ:num na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_CON->ADJ:pos na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_CON->ADV na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
-(define (is_exception_CON->ART:def na_word na_next_word))
+(define (is_exception_CON->ART:def na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 
 
-(define (is_exception_CON->ART:ind na_word na_next_word))
-(define (is_exception_CON->AUX na_word na_next_word))
-(define (is_exception_CON->CON na_word na_next_word))
-(define (is_exception_CON->NAM na_word na_next_word))
-(define (is_exception_CON->NOM na_word na_next_word))
-(define (is_exception_CON->ONO na_word na_next_word))
-(define (is_exception_CON->PRE na_word na_next_word))
-(define (is_exception_CON->PRO:dem na_word na_next_word))
-(define (is_exception_CON->PRO:ind na_word na_next_word))
-(define (is_exception_CON->PRO:int na_word na_next_word))
-(define (is_exception_CON->PRO:per na_word na_next_word))
-(define (is_exception_CON->PRO:pos na_word na_next_word))
+(define (is_exception_CON->ART:ind na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_CON->AUX na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_CON->CON na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_CON->NAM na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_CON->NOM na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_CON->ONO na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_CON->PRE na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_CON->PRO:dem na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_CON->PRO:ind na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_CON->PRO:int na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_CON->PRO:per na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
+(define (is_exception_CON->PRO:pos na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word)
+            (is_exclus->* na_word))
+        nil
+        t))
 (define (is_exception_CON->PRO:rel na_word na_next_word))
 (define (is_exception_CON->VER na_word na_next_word))
 
@@ -1137,11 +1475,38 @@
 (define (is_exception_NOM->ADJ:num na_word na_next_word))
 (define (is_exception_NOM->ADJ:pos na_word na_next_word))
 (define (is_exception_NOM->ADV na_word na_next_word))
-(define (is_exception_NOM->ART:def na_word na_next_word))
+
+; liaison dites optionnelle pour "bien au contraire" quand bien est vu comme NOM
+(define (is_exception_NOM->ART:def na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word) (is_exclus->* na_word))
+            
+	nil
+	(begin
+	(if (not (member_string (french_downcase_string na_next_word) (list "bien")) )
+	t))))
+
 (define (is_exception_NOM->ART:ind na_word na_next_word))
 ;(define (is_exception_NOM->AUX na_word na_next_word)
 ;        (complement identity))
-(define (is_exception_NOM->CON na_word na_next_word))
+
+; |melon| et chapeau rond
+(define (is_exception_NOM->CON na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word) (is_exclus->* na_word))
+        nil
+    (begin
+        (if (not (member_string (french_downcase_string na_next_word) (list "XXX")) )
+            t)
+            nil)))
+; Néron et moi-même on veut (is_exception_NAM->CON "néron" "moi_même") à nil
+(define (is_exception_NAM->CON na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word) (is_exclus->* na_word))
+        nil
+    (begin
+        (if (not (member_string (french_downcase_string na_next_word) (list "XXX")) )
+            t)
+            nil)))
+
+
 (define (is_exception_NOM->NAM na_word na_next_word))
 
 ;(define (is_exception_NOM->NOM na_word na_next_word)
@@ -1154,7 +1519,18 @@
 
 (define (is_exception_NOM->ONO na_word na_next_word)
         nil)
-(set! is_exception_NOM->PRE (complement identity))
+
+; font partie des liaisons dite optionnelles
+; |bien| à vous ; tant que  |bien| est vu comme  NOM ; (is_exception_NOM->PRE "bien" "à") t
+; la |raison| en est : (is_exception_NOM->PRE "raison" "en") t
+(define (is_exception_NOM->PRE na_word na_next_word)
+    (if (or (is_exclus*-> na_next_word) (is_exclus->* na_word))
+        nil
+	(begin
+		(if (not (member_string (french_downcase_string na_next_word) (list "bien")) )
+			t)
+			nil)))
+
 
 (define (is_exception_NOM->PRO:dem na_word na_next_word))
 (define (is_exception_NOM->PRO:ind na_word na_next_word))
@@ -1347,9 +1723,16 @@
 (define (is_exception_PRO:per->ADJ:int na_word na_next_word))
 (define (is_exception_PRO:per->ADJ:num na_word na_next_word))
 (define (is_exception_PRO:per->ADJ:pos na_word na_next_word))  
- 
+
+; nous y venons, nous y sommes
 (define (is_exception_PRO:per->ADV na_word na_next_word)  
-  (if (or (member_string na_word never_exception_list) (member_string na_next_word (list "y")))  nil  t))
+      (if (member_string na_word never_exception_list)
+        nil
+        (if (member_string na_next_word (list "y"))
+            t
+            nil))) ; vous y croyez ?  
+  
+  
 (define (is_exception_PRO:per->ART:def na_word na_next_word))
 (define (is_exception_PRO:per->ART:ind na_word na_next_word))
 ;(define (is_exception_PRO:per->AUX na_word na_next_word)
@@ -1414,7 +1797,22 @@
 (define (is_exception_VER->ART:def na_word na_next_word)
         (if(member_string na_word toujours_exception_list)  nil  t))
 
-(define (is_exception_VER->ART:ind na_word na_next_word))
+; c'est un peu fort ! 
+(define (is_exception_VER->ART:ind na_word na_next_word)
+      (if (member_string na_word never_exception_list)
+        nil
+        (if (member_string na_next_word (list "un"))
+            t
+            nil))) 
+
+; c'est un peu fort !    même si  c_est est vu comme AUX          
+(define (is_exception_AUX->ART:ind na_word na_next_word)
+      (if (member_string na_word never_exception_list)
+        nil
+        (if (member_string na_next_word (list "un"))
+            t
+            nil)))             
+            
 (define (is_exception_VER->AUX na_word na_next_word))
 (define (is_exception_VER->CON na_word na_next_word))
 (define (is_exception_VER->NAM na_word na_next_word))

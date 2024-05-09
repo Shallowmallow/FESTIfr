@@ -71168,6 +71168,7 @@ MNCL
 ("phobies" ((NOM -5.294))()); C
 ("phobique" ((ADJ -5.737))()); C
 ("phobiques" ((ADJ -6.038))()); C
+("phoebus" ((NAM -2.856)(NOM -5.250))());
 ("phoenix" ((NAM -2.856)(NOM -5.250))()); C
 ("phone" ((NOM -5.181))()); C
 ("phones" ((NOM -6.260))()); C
@@ -84165,6 +84166,7 @@ MNCL
 ("ruant" ((VER -6.219))()); C
 ("ruban" ((NOM -4.377))()); C
 ("rubans" ((NOM -4.862))()); C
+("rubens" ((NAM -2.856)(NOM -5.250))());
 ("rubia" ((NOM -6.561))()); C
 ("rubis" ((ADJ -4.941)(NOM -4.871))()); C
 ("rubrique" ((NOM -4.518)(VER -6.696))()); C

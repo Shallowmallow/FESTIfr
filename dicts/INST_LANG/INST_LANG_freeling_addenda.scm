@@ -187,6 +187,7 @@
 (lex.add.entry '("Canadien" ((NAM 0))()))
 (lex.add.entry '("Cancun" ((NAM 0))()))
 (lex.add.entry '("Capet" ((NAM 0))())) ; SIWIS
+(lex.add.entry '("Caïn" ((NAM 0))()))
 (lex.add.entry '("Caresche" ((NAM 0))()))
 (lex.add.entry '("Censi" ((NAM 0))()))
 (lex.add.entry '("Ceuta" ((NAM 0))()))
@@ -303,6 +304,7 @@
 (lex.add.entry '("Fromion" ((NAM 0))()))
 (lex.add.entry '("Frédéric" ((NAM 0))()))
 (lex.add.entry '("Frédérikson" ((NAM 0))())) ; SIWIS
+(lex.add.entry '("Félix" ((NAM 0))())) ; 
 (lex.add.entry '("Gad" ((NAM 0))())) ; SIWIS
 (lex.add.entry '("Gagnaire" ((NAM 0))())) ; SIWIS
 (lex.add.entry '("Galut" ((NAM 0))()))
@@ -374,6 +376,7 @@
 (lex.add.entry '("Herald" ((NAM 0))()))     ; SIWIS 
 (lex.add.entry '("Herth" ((NAM 0))()))
 (lex.add.entry '("Hetzel" ((NAM 0))()))
+(lex.add.entry '("Hermès" ((NAM 0))()))
 (lex.add.entry '("Hirson" ((NAM 0))()))
 (lex.add.entry '("Hobart" ((NAM 0))()))
 (lex.add.entry '("Hollande" ((NAM 0))()))
@@ -391,6 +394,10 @@
 (lex.add.entry '("Hystaspe" ((NAM 0))()))    ; SIWIS
 (lex.add.entry '("Hébrides" ((NAM 0))()))
 (lex.add.entry '("Hélène" ((NAM 0))()))
+(lex.add.entry '("Hélénus" ((NAM 0))()))
+(lex.add.entry '("Electre" ((NAM 0))()))
+(lex.add.entry '("Électre" ((NAM 0))()))
+
 (lex.add.entry '("Icade" ((NAM 0))()))
 (lex.add.entry '("Ice_blinck" ((NAM 0))()))
 (lex.add.entry '("Imaüs" ((NAM 0))()))
@@ -574,6 +581,7 @@
 (lex.add.entry '("Prism" ((NAM 0))()))
 (lex.add.entry '("Ptolémée" ((NAM 0))()))
 (lex.add.entry '("Pérouse" ((NAM 0))()))
+(lex.add.entry '("Pyrrhus" ((NAM 0))()))
 (lex.add.entry '("Qu_est_ce" ((VER 0))()))
 (lex.add.entry '("Quevilly" ((NAM 0))())) ; ; SIWIS
 (lex.add.entry '("Rabin" ((NAM 0))())) ; SIWIS
