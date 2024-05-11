@@ -262,7 +262,7 @@
                 (item.set_feat token 'pos "NAM")
                 (set! result (list name)))
                 
-      ((and (> tokendebuglevel -1)(format t "QTpos2 ?\t |%s|\n" name)  nil)) 
+      ((and (> tokendebuglevel -1)(format t "(lex.add.entry  ?\t |%s|\n" name)  nil)) 
       ((and ; 
             QTpos2
             (pattern-matches fdnaw QTpos2_pattern); {[^-]+}-{.*}; ne commence pas par un tiret mais en contient 1
@@ -298,14 +298,18 @@
             QTpos2
             QTpos2_suite
                    (item.prev token)
-                               (or (format t "QTpos2_suite ok1") t)
-                   (string-equal (item.feat (item.prev token) "token_pos") "QTpos2")  
-                               (or (format t "QTpos2_suite ok2") t)
-                   (string-equal (item.feat token "token_pos") "QTpos2") )
+                   (or (format t "QTpos2_suite ok1\n") t)
+                   (item.set_feat (item.prev token) "token_pos" "QTpos2")
+                   )
                    
                 (set! QT "QTpos2_suite" )
                 (set! RU (append RU (list QT )))
-                (item.set_feat token 'pos "PRO:per" ))  
+                (if (member_string name (list "le" "la" "les"))
+                    (item.set_feat token 'pos "ART:def")
+                    (if (member_string name (list "de" "des"))
+                        (item.set_feat token 'pos "ART:ind")))
+                (set! result (list name))
+                )  
                         
        ((and (> tokendebuglevel -1)(format t "QTtrad1 ?\t |%s|\n" name)  nil))
        ((and ; fre_abbr_with_point_tab ex  ("apr" "après")  ("apr._J.-C" "après" "jésus" "christ") ("arch" "archives") ("archéol" "archéologie")
