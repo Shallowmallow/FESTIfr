@@ -656,9 +656,9 @@
 
 ; |profitez| en  on veut (is_exception_VER->PRE "profitez" "en" ) -> t car il arrive que en soit pris pour PRE "bien"
 (define (is_exception_VER->PRE na_word na_next_word)
-    (if (or (member_string na_word never_exception_list)
-            (not (member_string (french_downcase_string na_next_word) (list "en"))))
-            nil t))  
+    (if (member_string na_word never_exception_list)
+        nil
+        t))
 
 
 ; livre |blanc| européen    nil        
