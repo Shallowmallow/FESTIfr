@@ -36,7 +36,13 @@
 ; ((NAM 0))
 ; méfiance pour le dico ...
 
-(lex.add.entry '("Àverell" ((NAM 0))())); juste pour test
+
+(lex.add.entry '("corps_et_ame" ((ADV 0))())); TODO ; (lex.add.entry '("corps_et_âme" ((ADV 0))()));  ne marche pas à cause du traitement de "â" dans INST_LANG_norm
+
+
+(lex.add.entry '("corps_et_biens" ((ADV 0))())) ; ("corps_et_biens" ((ADV -6.083))()); C
+
+(lex.add.entry '("Àverell" ((NAM 0))())); juste pour test de "À"
 (lex.add.entry '("États_généraux" ((NAM 0))())); ; juste pour test
 (lex.add.entry '("Arthur" ((NAM 0))()));
 (lex.add.entry '("êtes" ((AUX -1.987)(VER -2.257))())); pour satisfaire is_in_poslex ? erreur

@@ -67,7 +67,7 @@
 (lex.add.entry '("sens_NOM" NOM ((("s" "ahn" "s") 0))))
 (lex.add.entry '("sens_VER" VER ((("s" "ahn") 0))))
 (lex.add.entry '("les" "ADJ:def" (((l e)0))))
-; insuffisant à cause du s final (lex.add.entry '("les" "PRO:per" (((l e)0))))
+; insuffisant à cause du s final(lex.add.entry '("les" "PRO:per" (((l e)0))))
 ; il nous faut
 (lex.add.entry '("les_PRO:per" "PRO:per" (((l e)0))))
 
@@ -140,7 +140,7 @@
 (lex.add.entry '("clef" nil (((k l e)0))))
 (lex.add.entry '("yeu" nil ((("z" "j" "eu")0))));;MAGOUILLE
 
-; ne suffit pas (lex.add.entry '("ceux-ci" nil ((("s" "eu")0)(("s" "i")0))))
+; ne suffit pas(lex.add.entry '("ceux-ci" nil ((("s" "eu")0)(("s" "i")0))))
 (lex.add.entry '("ceux-ci_PRO:dem" PRO:dem ((("s" "eu")0)(("s" "i")0))))
 ; plus variante
 ; recoup INST_LANG_foreign
@@ -154,11 +154,11 @@
 (lex.add.entry '("Eva" nil (((e)0)((v a)0))))
 
 
-; I (lex.add.entry '("gens" nil ((("zh" "ahn") 0))))
+; I(lex.add.entry '("gens" nil ((("zh" "ahn") 0))))
 (lex.add.entry '("gen" nil ((("zh" "ahn") 0))))
 
 (lex.add.entry '("pays" nil (((p eh)0)((i)0))))
-; (lex.add.entry '("et_CON" CON (((e)0))))
+;(lex.add.entry '("et_CON" CON (((e)0))))
 (lex.add.entry '("et" nil (((e)0))))
 
 (lex.add.entry '("addenda" nil (((a)0) ((d ehn)0) ((d a)0))))
@@ -183,9 +183,9 @@
 (lex.add.entry '("qu_un_PRO:per" PRO:per (((k oen)0))))
 
 
-; (lex.add.entry '("j" nil nil))
-; (lex.add.entry '("l" nil nil))
-; (lex.add.entry '("m" nil nil))
+;(lex.add.entry '("j" nil nil))
+;(lex.add.entry '("l" nil nil))
+;(lex.add.entry '("m" nil nil))
 
 (lex.add.entry '("t" nil nil))
 
@@ -401,9 +401,19 @@
 ; orthographe incorrecte
 
 
-; essai 
 
- (lex.add.entry '("l_atlas" nil ((("l" "a") 0) (("t" "l" "a") 0)))); à cause du s
+(lex.add.entry '("l_atlas" nil ((("l" "a") 0) (("t" "l" "a") 0)))); à cause du s
  
- (lex.add.entry '("corps_et_âmes" nil ((("k" "oh" "rh") 0) ((z e) 0) (("a" "m") 0))))
-  (lex.add.entry '("corps_et_âme" nil ((("k" "oh" "rh") 0) ((e) 0) (("a" "m") 0)))) ; subtils !
+; TODO (lex.add.entry '("corps_et_âmes" nil ((("k" "oh" "rh") 0) ((z e) 0) (("a" "m") 0))))
+(lex.add.entry '("corps_et_ames_ADV" ADV ((("k" "oh" "rh") 0) ((z e) 0) (("a" "m") 0)))) ; normalement pas de liaison d'un nom singulier se terminant par s comme |corps|
+(lex.add.entry '("corps_et_ame_ADV" ADV ((("k" "oh" "rh") 0) ((e) 0) (("a" "m") 0)))) ; normalement pas de liaison d'un nom singulier se terminant par s comme |corps|
+
+(lex.add.entry '("corps_et_bien_ADV" ADV ((("k" "oh" "rh") 0) ((z e) 0) ((b j ehn) 0)))) ; normalement pas de liaison d'un nom singulier se terminant par s comme |corps|
+
+(lex.add.entry '("la_plupart_de" nil (((p l y) 0) ((p a rh) 0) ((d ae) 0))))
+
+;(lex.add.entry '("la_plupart_des" TODO
+
+(lex.add.entry '("la_plupart_du" nil (((p l y) 0) ((p a rh) 0) ((d y) 0))))
+
+

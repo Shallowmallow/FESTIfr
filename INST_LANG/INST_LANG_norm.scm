@@ -4,7 +4,7 @@
 ; TODO use external script
 
 ; /!\ utf8
-; notmment  pour string-replace
+; notamment  pour string-replace
 (require 'util)
 (defvar verbose_norm t)
 

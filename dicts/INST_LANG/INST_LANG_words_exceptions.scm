@@ -654,10 +654,12 @@
 (define (is_exception_VER->NOM na_word na_next_word)
         (if (member_string na_word never_exception_list) nil  t))
 
+; |profitez| en  on veut (is_exception_VER->PRE "profitez" "en" ) -> t car il arrive que en soit pris pour PRE "bien"
 (define (is_exception_VER->PRE na_word na_next_word)
     (if (or (member_string na_word never_exception_list)
-            (member_string (french_downcase_string na_word) (list "en")))
+            (not (member_string (french_downcase_string na_next_word) (list "en"))))
             nil t))  
+
 
 ; livre |blanc| européen    nil        
 (define (is_exception_ADJ->ADJ na_word na_next_word)
@@ -1818,7 +1820,7 @@
 (define (is_exception_VER->NAM na_word na_next_word))
 (define (is_exception_VER->NOM na_word na_next_word))
 (define (is_exception_VER->ONO na_word na_next_word))
-(define (is_exception_VER->PRE na_word na_next_word))
+
 (define (is_exception_VER->PRO:dem na_word na_next_word))
 (define (is_exception_VER->PRO:ind na_word na_next_word))
 (define (is_exception_VER->PRO:int na_word na_next_word))

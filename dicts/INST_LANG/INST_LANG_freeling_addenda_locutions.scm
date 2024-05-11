@@ -34,15 +34,12 @@
 
  (lex.add.entry '("prenez_les" ((VER 0) ) () ))
 
- (lex.add.entry '("prends_en" ((VER 0) ) () ))
-   (lex.add.entry '("dis-je" ((ADV 0) ) () ))
-   (lex.add.entry '("a_fortiori" ((ADV -6.083) ) () ))
-   (lex.add.entry '("corps_et_biens" ((ADV -6.083) ) () ))
+(lex.add.entry '("prends_en" ((VER 0) ) () ))
+(lex.add.entry '("dis-je" ((ADV 0) ) () ))
+(lex.add.entry '("a_fortiori" ((ADV -6.083) ) () ))
+(lex.add.entry '("corps_et_bien" ((ADV -6.083) ) () ))
   
    (lex.add.entry '("c_est-à-dire" ((CON 0) ) () )) ; CON comme donc par ex séduisant, donc riche
-;   (lex.add.entry '("ab_initio" ((ADV -6.384) ) () ))
-;   (lex.add.entry '("ab_irato" ((ADV -6.384) ) () ))
-;   (lex.add.entry '("ab_ovo" ((ADV -6.384) ) () ))
 ;   (lex.add.entry '("acid-jazz" ((NOM -6.385) ) () ))
   (lex.add.entry '("ad_hoc" ((ADV -5.297) ) () ))
 ;   (lex.add.entry '("ad_hoc_et_ab_hac" ((ADV -5.297) ) () ))
@@ -83,13 +80,12 @@
 ;   (lex.add.entry '("blue_note" ((NOM -6.385) ) () ))
 ;   (lex.add.entry '("boat_people" ((NOM -6.385) ) () ))
 ;   (lex.add.entry '("bubble_gum" ((NOM -6.561) ) () ))
-;   (lex.add.entry '("by_night" ((ADJ -5.737) (ADV -5.737)) () ))
 ;   (lex.add.entry '("call_girl" ((NOM -6.017) ) () ))
 ;   (lex.add.entry '("call_girls" ((NOM -6.385) ) () ))
 ;   (lex.add.entry '("casus_belli" ((NOM -6.163) ) () ))
 ;   (lex.add.entry '("check_up" ((NOM -6.561) ) () ))
-;   (lex.add.entry '("chef_d'oeuvre" ((NOM -4.854) ) () ))
-;   (lex.add.entry '("chefs_d'oeuvre" ((NOM -5.607) ) () ))
+   (lex.add.entry '("chef_d_oeuvre" ((NOM -4.854) ) () ))
+   (lex.add.entry '("chefs_d_oeuvre" ((NOM -5.607) ) () ))
 ;   (lex.add.entry '("chop_suey" ((NOM -5.716) ) () ))
 ;   (lex.add.entry '("citizen_band" ((NOM -6.561) ) () ))
 ;   (lex.add.entry '("coffee_shop" ((NOM -5.862) ) () ))
@@ -174,10 +170,7 @@
 
 ;   (lex.add.entry '("kung_fu" ((NOM -5.862) ) () ))
 ;   (lex.add.entry '("la_plata" ((NAM -4.646)(NOM -6.561) ) () ))
-;   (lex.add.entry '("la_plupart" ((PRO:ind -2.636) ) () ))
-;   (lex.add.entry '("la_plupart_de" ((ART:ind -2.730) ) () ))
-;   (lex.add.entry '("la_plupart_des" ((ART:ind -2.063) ) () ))
-;   (lex.add.entry '("la_plupart_du" ((ART:ind -2.641) ) () ))
+
 ;   (lex.add.entry '("made_in" ((PRE -5.180) ) () ))
 ;   (lex.add.entry '("madre_de_dios" ((NAM -4.713) (ONO -4.713) ) () ))
 ;   (lex.add.entry '("manu_militari" ((ADV -6.083) ) () ))

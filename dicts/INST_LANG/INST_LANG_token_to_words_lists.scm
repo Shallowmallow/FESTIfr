@@ -1594,9 +1594,15 @@
 
 (set! french_multiple_word_expressions2 
   (list 
-     ; le cas chef-d'oeuvre est réglé par QTchefd à l'instar des va-t'on
+     ; le cas chef-d'oeuvre est réglé par QTchefd à l'instar des va-t'on; TODO d'actualité ?
      "chef_d_oeuvre"
+     "chefs_d_oeuvre"; name_ref chefs_d_oeuvre
     "n_est_ce_pas"; pos 
+
+    
+    "corps_et_ame"; "corps_et_äme" ne marche pas à cause de "â" ? ; TODO
+    "corps_et_ames"; essai subtilité 1 corps ou plusieurs 
+
     "alea_jacta_est" ; pos
     "am_stram_gram"; pos
     "bon_au_porteur"; pos
@@ -1608,7 +1614,7 @@
     "cot_cot_codec"    ; pos
     "commedia_dell_arte"; pos
     "de_manière_à"; pos
-    "corps_et_biens"; pos
+    "corps_et_bien"; name_ref corps_et_bien
     "deus_ex_machina"; pos
     "face_à_face"; pos
     "faute_de_quoi"
@@ -1616,7 +1622,7 @@
     "in_vino_veritas"
     "il_y_a"; pos
     "il_y_aura"; pos
-    
+    "la_plupart_de"
     "la_plupart_des"
     "la_plupart_du"
     "madre_de_dios"

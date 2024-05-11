@@ -1,4 +1,5 @@
 ; /home/dop7/MyDevelop/Voices/french_EXP2_70/LANGandDICT/dicts_INST_LANG/INST_LANG/INST_LANG_lex.scm
+(defvar name_ref "")
 (defvar verbose_INST_LANG_lex nil)
 (defvar mode_lts_function_error nil)
 (defvar mode_prehook t)

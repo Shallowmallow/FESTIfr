@@ -6,10 +6,10 @@
 ; mais (lex.lookup "états_généraux") et (lex.lookup "États_généraux")   )
 ; donne (((e)0) ((t a)0) ((zh e)0) ((n e)0) ((rh o)0))))
 ; si on voulait différencier, il faudrait créer une entrée dans poslex
-; ex dans l'addenda (lex.add.entry '("États_générau" ((NAM 0))())); ; juste pour test
+; ex dans l'addenda(lex.add.entry '("États_générau" ((NAM 0))())); ; juste pour test
 ; puis ure entrée dans le lex par exemple ici
 ;(lex.add.entry '("états_générau_NAM" NAM (((e)0) ((t a)0) ((zh e)0) ((n e)0) ((rh eu)0))))
-; (lex.add.entry '("États_générau_NAM" NAM (((e)0) ((t a)0) ((zh e)0) ((n e)0) ((rh eu)0))))
+;(lex.add.entry '("États_générau_NAM" NAM (((e)0) ((t a)0) ((zh e)0) ((n e)0) ((rh eu)0))))
 ; et ça ne marcherait pas !! TODO
 ; MAIS cela marche pour des mots non composés
 ; voir le cas de "ranger" (SayText "le ranger se mit à ranger")
@@ -132,7 +132,7 @@
 (lex.add.entry '("enfants_ci" nil ((("ahn") 0) (("f" "ahn") 0) (("s" "i") 0))))
 (lex.add.entry '("immoral" nil ((("i") 0) (("m" "oh") 0) (("rh" "a" "l") 0))))
 (lex.add.entry '("immoralité" nil ((("i") 0) (("m" "oh") 0) (("rh" "a") 0) (("l" "i") 0) (("t" "e") 0))))
-;;; (lex.add.entry '("prends-en_VER" VER ((("p" "rh" "ahn") 0) (("z" "ahn") 0))))
+;;;(lex.add.entry '("prends-en_VER" VER ((("p" "rh" "ahn") 0) (("z" "ahn") 0))))
 (lex.add.entry '("prends-en" nil ((("p" "rh" "ahn") 0) (("z" "ahn") 0))))
 (lex.add.entry '("sers-en" nil ((("s" "eh" "rh") 0) (("z" "ahn") 0))))
 
@@ -191,7 +191,7 @@
 (lex.add.entry '("jeu" nil ((("zh" "eu") 0))))
 ; fautif voire récalcitrant
 (lex.add.entry '("abrupti" nil ((("a") 0) (("b" "rh" "y") 0) (("t" "i") 0))))
-(lex.add.entry '("a-t-il" VER ((("a") 0) ((t "i" "l") 0))))
+(lex.add.entry '("a_t_il" nil ((("a") 0) ((t "i" "l") 0))))
 (lex.add.entry '("y_a_t_il" nil ((("j"  "a") 0) (("t" "i" "l") 0))))
 
 (lex.add.entry '("d_oeil" nil ((("d" "oe" "j" pau) 0))))
@@ -211,7 +211,4 @@
 
 
 
-
-
-(lex.add.entry '("corps" nil ((("k" "oh" "rh") 0))))
-(lex.add.entry '("corp" nil ((("k" "oh" "rh") 0))))
+(lex.add.entry '("corps_NOM" NOM ((("k" "oh" "rh") 0))))

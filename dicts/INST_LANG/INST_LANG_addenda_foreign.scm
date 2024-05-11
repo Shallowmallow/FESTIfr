@@ -31,13 +31,11 @@
 ; (lex.add.entry '("¢" nil ((( s eh n s) 0))))
 (lex.add.entry '("spitfire_NOM" "NOM" (((s p i t) 0) ((f a) 0) ((j ae rh)0))))
 (lex.add.entry '("you" nil (((j u)0))))
-
 (lex.add.entry '("Achille_NOM" "NOM" (((a sh i l)0))))
 (lex.add.entry '("Achille_NAM" "NAM" (((a sh i l)0))))
 (lex.add.entry '("borer_NOM" "NOM" (((b oh) 0) ((rh eh rh) 0)))); insecte
 (lex.add.entry '("ranger_NOM" "NOM" (((rh ahn) 0) ((zh oe rh) 0))));
 (lex.add.entry '("ranger_VER" "VER" (((rh ahn) 0) ((zh e) 0))));
-
 (lex.add.entry '("after_nil" "nil" (((a f) 0) ((t eh rh) 0))))
 (lex.add.entry '("agit_prop_NOM" "NOM"(((a) 0)((zh i t) 0)((p rh oh p) 0))))
 (lex.add.entry '("appeal_NOM" "NOM"(((a) 0)((p i l) 0))))
@@ -52,10 +50,8 @@
 (lex.add.entry '("black_out_NOM" "NOM" (((b l a k)0)((a)0)((oh t)0))))
 (lex.add.entry '("blue_jean_NOM" "NOM" ((("b" "l" "u")0)((d zh i n) 0))))
 (lex.add.entry '("blue_jeans_NOM" "NOM" ((("b" "l" "u")0)((d zh i n) 0))))
-
 (lex.add.entry '("boom_NOM" "NOM"(((b u m)0))))
 (lex.add.entry '("akim_NAM" "NAM"(((a)0)((k i m)0))))
-
 (lex.add.entry '("boomerang_NOM" "NOM"(((b u m)0)((rh ahn g)0))))
 (lex.add.entry '("boss_NOM" "NOM"(((b oh s)0))))
 (lex.add.entry '("boui_boui_NOM" "NOM" ((("b" w "i") 0) (("b" w "i") 0))))
@@ -69,10 +65,8 @@
 (lex.add.entry '("bug_NOM" "NOM" (((b oe g)0))))
 (lex.add.entry '("call_girl_NOM" "NOM" (((k o l) 0)((g oe rh l) 0))))
 (lex.add.entry '("call_center_NOM" "NOM" (((k o l) 0)((s ahn) 0) (t eh rh)0)))
-
 (lex.add.entry '("call_NOM" "NOM" (((k o l) 0))))
 (lex.add.entry '("center_NOM" "NOM" (((s ahn) 0)((t eh rh)))))
-
 (lex.add.entry '("cake"  nil (((k e k) 0))))
 (lex.add.entry '("cash_NOM" "NOM"(((k a sh)0))))
 (lex.add.entry '("cheap"  nil (((t sh i p) 0))))
@@ -92,31 +86,25 @@
 (lex.add.entry '("coming_out_NOM" "NOM"(((k oh)0)((m i n g)0)((a)0)((o t)0))))
 (lex.add.entry '("copyleft_NOM" "NOM"(((k oh)0)((p i)0)((l eh f t)0))))
 (lex.add.entry '("copyright_NOM" "NOM"(((k oh)0)((p i)0)((rh a j t)0))))
-
 (lex.add.entry '("cool_nil" "nil"(((k u l)0))))
 (lex.add.entry '("cost_nil" "nil"(((k oh s t)0))))
 (lex.add.entry '("cosmos_NOM" "NOM"(((k oh s)0)((m o s)0))))
-
 ;(lex.add.entry '("costa_nil" "nil"(((k oh)0)((s t a)0))))
 (lex.add.entry '("cream_NOM" "NOM" (((k rh i m) 0))))
 (lex.add.entry '("deal_NOM" "NOM"(((d i l)0))))
 (lex.add.entry '("dealer_NOM" "NOM"(((d i)0)((l oe rh)0))))
 (lex.add.entry '("design_NOM" "NOM"(((d e)0)((s a j n)0))))
 (lex.add.entry '("discount_NOM" "NOM"(((d i s)0)((k ohn t)0))))
-
 (lex.add.entry '("deutsche_nil" "nil"(((d eu t sh)0))))
 (lex.add.entry '("dog_cart_NOM" "NOM"(((d oh g) 0)((k a rh t) 0))))
 (lex.add.entry '("dry_nil" "nil"(((d rh a j)0))))
 (lex.add.entry '("dumping_NOM" "NOM"(((d oe m)0)((p i n g)0))))
-
 (lex.add.entry '("edelweiss_NOM" "NOM"(((e) 0)((d eh l) 0)((v eh s) 0)))); ?
 (lex.add.entry '("erectus_NOM" "NOM"(((e) 0)((rh eh k) 0)((t y s)))))
 (lex.add.entry '("extremis_nil" "nil"(((eh k s) 0)((t rh e) 0)((m i s) 0))))
-
 (lex.add.entry '("feedback_NOM" "NOM"(((f i d) 0)((b a k) 0))))
 (lex.add.entry '("feeling_nil" "nil"(((f i) 0)((l i n g) 0))))
 (lex.add.entry '("festvox_NOM" "NOM"(((f eh s t) 0)((v oh k s) 0))))
-; )
 (lex.add.entry '("fire_NOM" "NOM"(((f a j rh) 0))))
 (lex.add.entry '("flash_NOM" "NOM"(((f l a sh)0))))
 (lex.add.entry '("food_NOM" "NOM"(((f u d) 0))))
@@ -127,13 +115,11 @@
 (lex.add.entry '("gentleman_NOM" "NOM"(((zh ahn)0)((t l oe)0)((m a n)0))))
 (lex.add.entry '("gentlemen_NOM" "NOM"(((zh ahn)0)((t l oe)0)((m eh n)0))))
 (lex.add.entry '("accessit_NOM" "NOM"(((a k)0)((s eh)0)((s i t)0))))
-; )
 (lex.add.entry '("gin_NOM" "NOM" (((d zh i n) 0))))
 (lex.add.entry '("ginseng_NOM" "NOM" (((zh i n)0) ((s ehn)0))))
 (lex.add.entry '("girl_NOM" "NOM" (((g oe rh l) 0))))
 (lex.add.entry '("globe_trotter_NOM" "NOM" (((g l oh b) 0) ((t rh oh) 0) ((t eh rh) 0))))
 (lex.add.entry '("habilis_nil" "nil"(((a)0)((b i)0)((l i s)))))
-
 (lex.add.entry '("hall_NOM" "NOM"(((  o l)0))))
 (lex.add.entry '("hard_nil" "nil" (((a rh d) 0))))
 (lex.add.entry '("high_nil" "nil" (((a j) 0))))
@@ -144,7 +130,6 @@
 (lex.add.entry '("home_trainer_NOM" "NOM" (((o m) 0) ((t rh eh) 0) ((eh rh) 0))))
 (lex.add.entry '("hook_NOM" "NOM"(((  u k) 0))))
 (lex.add.entry '("home_NOM" "NOM"(((  o m) 0))))
-
 (lex.add.entry '("hot_nil" "nil"(((oh t) 0))))
 (lex.add.entry '("ice_blinck_NOM" "NOM"(((a j s)0)((b l i n k)0))))
 (lex.add.entry '("ice_field_NOM" "NOM"(((a j s)0)((f i l d)0))))
@@ -157,10 +142,8 @@
 (lex.add.entry '("satisfecit_NOM" "NOM"(((s a) 0)((t i s ) 0)((f e) 0)((s i t)0))))
 (lex.add.entry '("on_line_nil" "nil" (((oh n) 0)((l a j n ) 0))))
 (lex.add.entry '("online_nil" "nil" (((oh n) 0)((l a j n ) 0))))
-
 (lex.add.entry '("interviewée_nil" "nil"(((ehn) 0)((t eh rh) 0)((v j u) 0)((v e) 0))))
 (lex.add.entry '("jeans_NOM" "NOM" (((d zh i n) 0))))
-
 (lex.add.entry '("jack_nil" "nil" (((d zh a k) 0))))
 (lex.add.entry '("keen_nil" "nil"(((k i n)0))))
 (lex.add.entry '("king_nil" "nil"(((k i n g)0))))
@@ -171,7 +154,6 @@
 (lex.add.entry '("ladies_nil" "nil"(((l e d i z)0))))
 (lex.add.entry '("green_nil" "nil"(((g rh i n)0))))
 (lex.add.entry '("gimmick_NOM" "NOM"(((g i) 0)((m i k) 0))))
-
 (lex.add.entry '("leader_nil" "nil"(((l i)0)((d eh rh)0))))
 (lex.add.entry '("leitmotiv_NOM" "NOM"(((l a j t) 0)((m o) 0)((t i v) 0))))
 (lex.add.entry '("life_nil" "nil" (((l a j f) 0))))
@@ -199,7 +181,6 @@
 (lex.add.entry '("pacemaker_NOM" "NOM"(((p e s) 0)((m e) 0)((k eh rh) 0))))
 (lex.add.entry '("pudding_nil" "nil"(((p u)0)((d i n g)0))))
 (lex.add.entry '("pull_over_nil" "nil"(((p y l)0)((o v eh rh)0))))
-
 (lex.add.entry '("puzzle_nil" "nil"(((p oe)0)((z oe l)0))))
 (lex.add.entry '("quanti_nil" "nil"(((k w ahn)0)((t i)0))))
 (lex.add.entry '("queen_nil" "nil"(((k w i n)0))))
@@ -212,7 +193,6 @@
 (lex.add.entry '("sandwich_nil" "nil"(((s ahn) 0)((d w i t sh) 0))))
 (lex.add.entry '("scoop_nil" "nil" (((s k u p)0))))
 (lex.add.entry '("rollmops_nil" "nil" (((rh oh l)0)((m oh p s)0))))
-
 (lex.add.entry '("scout_nil" "nil" (((s k u t)0))))
 (lex.add.entry '("selfie_NOM" "NOM"(((s eh l)0)((f i)0)))) 
 (lex.add.entry '("seller_nil" "nil" (((s eh) 0)((l eh rh) 0))))
@@ -220,9 +200,7 @@
 (lex.add.entry '("sixties_NOM" "NOM"(((s i k s t i z)0))))
 (lex.add.entry '("strip-tease_NOM" "NOM" (((s t rh i p)0)((t i z)0))))
 (lex.add.entry '("strip-teaseuse_NOM" "NOM" (((s t rh i p)0)((t i)0)((z eu z)))))
-
 (lex.add.entry '("eighties_NOM" "NOM"(((e j t i z)0))))
-
 (lex.add.entry '("shave_nil" "nil" (((sh e v) 0))))
 (lex.add.entry '("shirt_NOM" "NOM"(((sh oe rh t) 0))))
 (lex.add.entry '("short_NOM" "NOM"(((sh oh rh t) 0))))
@@ -232,26 +210,19 @@
 (lex.add.entry '("speed_NOM" "NOM"(((s p i d) 0))))
 (lex.add.entry '("teatro_NOM" "NOM"(((t e) 0)(a)0)((t rh o))))
 (lex.add.entry '("tricératops_NOM" "NOM" (((t rh i)0)((s e)0)((rh a)0)((t oh p s)0))))
-
 (lex.add.entry '("t_shirt_nil" "nil"(((t i)0)((sh oe rh t) 0))))
-
 (lex.add.entry '("senior_ADJ" "ADJ" (((s e) 0) ((n j oh rh) 0))))
 (lex.add.entry '("senior_NOM" "NOM" (((s e) 0) ((n j oh rh) 0))))
-
 (lex.add.entry '("talk_nil" "nil"(((t o k)0))))
 (lex.add.entry '("town_nil" "nil"(((t o n)0))))
 (lex.add.entry '("toast_nil" "nil"(((t o s t)0))))
-
 (lex.add.entry '("tuner_NOM" "NOM"(((t y) 0)((n eh rh) 0))))
 (lex.add.entry '("tuner_VER" "VER"(((t y) 0)((n e) 0))))
 (lex.add.entry '("up_nil" "nil"(((  oe p) 0))))
 (lex.add.entry '("view_nil" "nil"(((v j u) 0))))
-
 (lex.add.entry '("vivendi_nil" "nil"(((v i)0)((v ehn)0)((d i) 0))))
 (lex.add.entry '("vulgum_nil" "nil"(((v y l)0)((g oh m)0))))
-
 (lex.add.entry '("walkman_NOM" "NOM"(((w o k)0)((m a n)0))))
-
 (lex.add.entry '("week_end_nil" "nil"(((w i)0)((k eh n d)0))))
 (lex.add.entry '("yatch_nil" "nil"(((j o t)0))))
 ;(lex.add.entry '("boat_people"
@@ -262,14 +233,11 @@
 ;(lex.add.entry '("mme_nil" "nil"(((m a)0)((d a m)0))))
 ;(lex.add.entry '("steamboat"
 lex.add.entry '("suspense_NOM" "NOM"(((s y s) 0)((p eh n s))))
-
 (lex.add.entry '("news_nil" "nil"(((n eh w z)0))))
 (lex.add.entry '("todo_nil" "nil"(((t u)0)((d u)0))))
 (lex.add.entry '("schweppes_NOM" "NOM"(((sh w eh p s)0))))
 (lex.add.entry '("schweppes_NAM" "NAM"(((sh w eh p s)0))))
 (lex.add.entry '("austin_NAM" "NAM"(((o)0)((s t i n)0))))
-
-
 ; internet  url
 (lex.add.entry '("blog_nil" "nil"(((b l oh g)0))))
 (lex.add.entry '("com_NOM" "NOM"(((k oh m)0))))
@@ -278,7 +246,6 @@ lex.add.entry '("suspense_NOM" "NOM"(((s y s) 0)((p eh n s))))
 (lex.add.entry '("gmail_nil" "nil"(((zh e)0)((m eh l)0))))
 (lex.add.entry '("google_NAM" "NAM"(((g u)0)((g ae l)0))))
 (lex.add.entry '("hotline_nil" "nil" (((oh t)0)((l a j n)0))))
-
 (lex.add.entry '("htm_NOM" "NOM" (((a sh)0)((t e)0)((eh m)0))))
 (lex.add.entry '("html_NOM" "NOM" (((a sh)0)((t e)0)((eh m)0)((eh l)0))))
 (lex.add.entry '("http_NOM" "NOM"(((a sh)0)((t e)0)((t e)0)((p e)0))))
@@ -294,12 +261,9 @@ lex.add.entry '("suspense_NOM" "NOM"(((s y s) 0)((p eh n s))))
 (lex.add.entry '("windows_NAM" "NAM"(((w i n)0)((d o z)0))))
 (lex.add.entry '("www_nil" "nil"(((t rh w a)0)((d u b l)0)((v e)0))))
 ;
-
-
 ; pays villes gentilés et éléments d'adresses,, etc.
 (lex.add.entry '("corée_nil" "nil"(((k oh)0)((rh e)0))))
 (lex.add.entry '("haute_garonne_NAM" "NAM"(((o t)0)((g a)0)((rh oh n)0))))
-
 (lex.add.entry '("broadway_NAM" "NAM"(((b rh o d) 0)((w eh) 0))))
 (lex.add.entry '("brooklyn_NAM" "NAM"(((b rh u) 0)((k l i n) 0))))
 (lex.add.entry '("hampshire_NAM" "NAM"(((ahn p) 0)((sh oe rh) 0))))
@@ -310,7 +274,6 @@ lex.add.entry '("suspense_NOM" "NOM"(((s y s) 0)((p eh n s))))
 (lex.add.entry '("york_NAM" "NAM"(((j oh rh k)0))))
 (lex.add.entry '("rhin_NAM" "NAM"(((j oh rh k)0))))
 (lex.add.entry '("alsace_NAM" "NAM"(((j oh rh k)0))))
-
 (lex.add.entry '("fourth_nil" "nil"(((f o rh s) 0))))
 (lex.add.entry '("ten_nil" "nil"(((t eh n) 0))))
 (lex.add.entry '("island_nil" "nil"(((a j) 0)((l ahn d) 0))))
@@ -341,13 +304,10 @@ lex.add.entry '("suspense_NOM" "NOM"(((s y s) 0)((p eh n s))))
 (lex.add.entry '("anti-greenpeace_ADJ" "ADJ" (((ahn) 0) ((t i) 0) ((g rh i n) 0)((p i s)0))))
 (lex.add.entry '("anti-greenpeace_NOM" "NOM" (((ahn) 0) ((t i) 0) ((g rh i n) 0)((p i s)0))))
 (lex.add.entry '("greenpeace_NAM" "NAM" (((g rh i n) 0)((p i s)0))))
-
-;(lex.add.entry '
 ;(lex.add.entry '
 (lex.add.entry '("égypte_NAM" "NAM"(((e)0)((zh i p t)0))))
 (lex.add.entry '("états_unis_NAM" "NAM"(((e)0)((t a)0)((z y)0)((n i)0))))
 (lex.add.entry '("grande_bretagne_NAM" "NAM" ((("g" "rh" "ahn" "d") 0) (("b" "rh" "ae") 0) (("t" "a" "jg") 0))))
-
 (lex.add.entry '("wallis_NAM" "NAM"(((w a)0)((l i s)0))))
 (lex.add.entry '("washington_NAM" "NAM"(((w a)0)((sh i n)0)((t oh n)0))))
 (lex.add.entry '("wauquiez_NAM" "NAM"(((v o)0)((k j e)0))))
@@ -361,18 +321,10 @@ lex.add.entry '("suspense_NOM" "NOM"(((s y s) 0)((p eh n s))))
 (lex.add.entry '("burkinabe_NAM" "NAM"(((b y rh) 0)((k i) 0)((n a) 0)((b e) 0))))
 (lex.add.entry '("faso_NAM" "NAM"(((f a) 0)((s o) 0))))
 (lex.add.entry '("zurich_NAM" "NAM"(((z y) 0)((rh i k) 0))))
-
-
-
 (lex.add.entry '("Duras_NAM" "NAM" (((d y)0)((rh a s)0))))
 (lex.add.entry '("duras_VER" "VER" (((d y)0)((rh a)0))))
-
-
-
-
 (lex.add.entry '("coolie_nil" "nil"  (((k u)0)((l i)0))))
 (lex.add.entry '("boogie_woogie_nil" "nil" ((("b" "u") 0) ((g i) 0) ((w u) 0) ((g i) 0))))
-
 ; musique
 (lex.add.entry '("b_fa_si_NOM" "NOM"(((b e) 0)((f a) 0)((s i) 0))));;
 (lex.add.entry '("c_sol_ut_VER" "VER"(((s e) 0)((s oh l) 0)((y t) 0))))
@@ -382,36 +334,23 @@ lex.add.entry '("suspense_NOM" "NOM"(((s y s) 0)((p eh n s))))
 (lex.add.entry '("crescendo_nil" "nil"(((k rh e)0)((sh ehn)0)((d o)0)))) 
 ; droit
 (lex.add.entry '("franc_alleu_NOM" "NOM"(((f rh ahn) 0)((k a) 0)((l eu) 0))))
-
-
 ; spanish
 (lex.add.entry '("peseta_NOM" "NOM"(((p e) 0)((z e)0)((t a) 0))))
 (lex.add.entry '("pesetas_NOM" "NOM"(((p e) 0)((z e)0)((t a s) 0))))
 (lex.add.entry '("holà_nil" "nil"(((  oh)0)((l a)0))))
-
 ; foreign currency
 ;(lex.add.entry '(£ nil(((p a)0)((oh n d s)0)))) ; \(utf8ord £) 163
 ; moyennant € ¥ £ ¢ _> Euro yen _livre _cents dans norm de token et ajout dans addenda
-
 (lex.add.entry '("_livre_nil" "nil"(((l i v rh) 0)))) ;(((p a)0)((oh n d s)0)))) ; \(utf8ord £) 163
 (lex.add.entry '("_cents_nil" "nil"(((s ehn t s)0)))) ; \(utf8ord £) 163
 (lex.add.entry '("_yen_nil" "nil"(((j eh n)0)))) ; \(utf8ord £) 163
-
-
-
-
 (lex.add.entry '("yogi_NOM" "NOM"(((j oh) 0)((g i) 0))))
 (lex.add.entry '("kung_fu_NOM" "NOM"(((k u n g) 0)((f u) 0))))
 (lex.add.entry '("bricq_nil" "nil"(((b rh i k)0))))
-
-
 ; erreurs typo 
-
 ; Etat
 ; Egalement
 ; Evénement
-
-
 ; Certains patronymes ne prennent pas l’accent aigu sur le e, en dépit
 ; de la prononciation [é] : 
 ; Benveniste, Bremond, Casimir_Perier,
@@ -424,36 +363,18 @@ lex.add.entry '("suspense_NOM" "NOM"(((s y s) 0)((p eh n s))))
 ; Barbey d’Aurevilly ou Fénelon.
 ; pas d'accent sur les noms propres d’origine italienne ou espagnole : 
 ; Angelico, Heredia, Ribera
-
-
 ; oublis
-
-
-
 (lex.add.entry '("in_quarto_nil" "nil"(((i n)0)((k w a rh)0)((t o)0))))
 (lex.add.entry '("islam_nil" "nil"(((i s)0)((l a m)0))))
 (lex.add.entry '("islamique_nil" "nil"(((i s)0)((l a)0)((m i k)0))))
-
-
 (lex.add.entry '("wagner_NAM" "NAM"(((v a g)0)((n eh rh)0))))
 ;(lex.add.entry ')
-
-;(lex.add.entry ')
-
-
-
-
 (lex.add.entry '("ayuntamiento_nil" "nil"(((a)0)((j u n)0)((t a)0)((m j eh n)0)((t o)0))))
-
 ;; les NAM vérifiés 
 (lex.add.entry '("Bies_NAM" "NAM"(((b j eh s)0))))
-
-
 (lex.add.entry '("afghanistan_NAM" "NAM"(((a f)0)((g a)0)((n i s)0)((t ahn)0))))
 (lex.add.entry '("afrique_NAM" "NAM"(((a)0)((f rh i k)0))))
-
 (lex.add.entry '("alençon_NAM" "NAM"(((a)0)((l ahn)0)((s ohn)0))))
-
 (lex.add.entry '("alfortville_NAM" "NAM"(((a l)0)((f oh rh)0)((v i l)0))))
 (lex.add.entry '("alger_NAM" "NAM"(((a l)0)((zh e)0))))
 (lex.add.entry '("afrique_NAM" "NAM"(((a l)0)((zh e)0))))
@@ -466,7 +387,6 @@ lex.add.entry '("suspense_NOM" "NOM"(((s y s) 0)((p eh n s))))
 (lex.add.entry '("amérique_NAM" "NAM"(((a)0)((m e)0)((rh i k)0))))
 (lex.add.entry '("angeles_NAM" "NAM"(((ahn)0)((zh ae)0)((l eh s)0))))
 (lex.add.entry '("angleterre_NAM" "NAM"(((ahn)0)((g l ae)0)((t eh rh)0))))
-
 (lex.add.entry '("apple_NAM" "NAM"(((a)0)((p oe l)0))))
 (lex.add.entry '("arabie_NAM" "NAM"(((a)0)((rh a)0)((b i)0))))
 (lex.add.entry '("arbitrage_NAM" "NAM"(((a rh)0)((b i t)0)((rh a zh)0))))
@@ -500,9 +420,7 @@ lex.add.entry '("suspense_NOM" "NOM"(((s y s) 0)((p eh n s))))
 (lex.add.entry '("cancun_NAM" "NAM"(((k a n)0) ((k u n)0)))); SIWIS
 (lex.add.entry '("canebière_NAM" "NAM"(((k a n)0)((b j eh rh)0)))); SIWIS
 (lex.add.entry '("capet_NAM" "NAM"(((k a)0)((p eh)0))))
-
 (lex.add.entry '("ceylan_NAM" "NAM"(((s eh)0)((l ahn)0))))
-
 (lex.add.entry '("chartres_NAM" "NAM"(((sh a rh t rh)0))))
 (lex.add.entry '("chassaigne_NAM" "NAM"(((sh a)0)((s eh jg)0))))
 (lex.add.entry '("chauveau_NAM" "NAM"(((sh o)0)((v o)0))))
@@ -511,10 +429,8 @@ lex.add.entry '("suspense_NOM" "NOM"(((s y s) 0)((p eh n s))))
 (lex.add.entry '("chirac_NAM" "NAM"(((sh i)0)((rh a k)0)))); SIWIS
 (lex.add.entry '("stabilisés_VER" "VER" ((("s" "t" "a") 0) (("b" "i") 0) (("l" "i") 0) (("z" "e") 0))))
 (lex.add.entry '("figer_VER" "VER" ((("f" "i") 0) (("zh" "e") 0))))
-
 (lex.add.entry '("brut_ADJ" "ADJ" ((("b" "rh" "y" t) 0))))
 (lex.add.entry '("budget_NOM" "NOM" ((("b" "y" d) 0) (("zh" "eh") 0))))
-
 (lex.add.entry '("château_thierry_NAM" "NAM"(((sh a)0)((t o)0)((t j eh)0)((rh i)0))))
 (lex.add.entry '("congo_NAM" "NAM"(((k ohn)0)((g o)0))))
 (lex.add.entry '("conviction_NAM" "NAM"(((k ohn)0)((v i k)0)((s j ohn)0))))
@@ -560,7 +476,6 @@ lex.add.entry '("suspense_NOM" "NOM"(((s y s) 0)((p eh n s))))
 (lex.add.entry '("franche_comté_NAM" "NAM"(((f rh ahn sh)0)((k ohn)0)((t e)0))))
 (lex.add.entry '("gers_NAM" "NAM"(((zh eh rh)0))))
 (lex.add.entry '("molac_NAM" "NAM"(((m oh)0)((l a k)0))))
-
 (lex.add.entry '("gad_NAM" "NAM"(((g a d)0))))
 (lex.add.entry '("gaza_NAM" "NAM"(((g a)0)((z a)0))))
 (lex.add.entry '("genève_NAM" "NAM"(((zh ae)0)((n eh v)0))))
@@ -618,7 +533,6 @@ lex.add.entry '("suspense_NOM" "NOM"(((s y s) 0)((p eh n s))))
 (lex.add.entry '("londres_NAM" "NAM"(((l ohn d rh)0))))
 (lex.add.entry '("long_island_NAM" "NAM"(((l ohn g)0)((g a j)0)((l ahn d)0))))
 (lex.add.entry '("lorraine_NAM" "NAM"(((l oh)0)((rh eh n)0))))
-
 (lex.add.entry '("luxembourg_NAM" "NAM"(((l y k)0)((s ahn)0)((b u rh)0))))
 (lex.add.entry '("lyon_NAM" "NAM"(((l j ohn)0))))
 (lex.add.entry '("lyon_turin_NAM" "NAM"(((l j ohn)0)((t y)0)((rh ehn)0))))
@@ -750,14 +664,9 @@ lex.add.entry '("suspense_NOM" "NOM"(((s y s) 0)((p eh n s))))
 (lex.add.entry '("versailles_NAM" "NAM"(((v eh rh)0)((s a j)0))))
 (lex.add.entry '("vichy_NAM" "NAM"(((v i)0)((sh i)0))))
 (lex.add.entry '("vichy_NOM" "NOM"(((v i)0)((sh i)0))))
-
 (lex.add.entry '("USA_NAM" "NAM"(((y)0)((eh s)0)((a)0))))
 (lex.add.entry '("usa_VER" "VER"(((y)0)((z a)0))))
-
 (lex.add.entry '("Vercamer_NAM" "NAM"(((v eh rh)0)((k a)0)((m e)0))))
-
-
-
 ; prénoms
 (lex.add.entry '("abraham_NAM" "NAM"(((a)0)((b rh a)0)((a m)0))))
 (lex.add.entry '("adam_NAM" "NAM"(((a)0)((d ahn)0))))
@@ -768,7 +677,6 @@ lex.add.entry '("suspense_NOM" "NOM"(((s y s) 0)((p eh n s))))
 (lex.add.entry '("Alexandra_NAM" "NAM"(((a)0)((l e k)0)((s ahn)0)((d rh a)0))))
 ;(lex.add.entry '("Alexandre_NAM" "NAM"(((a)0)((l eh k)0)((s ahn d rh)0))))
 (lex.add.entry '("alexandre_nil" "nil"(((a)0)((l eh k)0)((s ahn d rh)0))))
-
 (lex.add.entry '("Alexis_NAM" "NAM"(((a)0)((l eh k)0)((s i)0))))
 (lex.add.entry '("alice_NAM" "NAM"(((a)0)((l i s)0))))
 (lex.add.entry '("ameline_NAM" "NAM"(((  a m)0)((l i n)0))))
@@ -901,23 +809,15 @@ lex.add.entry '("suspense_NOM" "NOM"(((s y s) 0)((p eh n s))))
 (lex.add.entry '("yves_NAM" "NAM"(((i v)0))))
 (lex.add.entry '("zadig_NAM" "NAM"(((z a)0)((d i g)0))))
 (lex.add.entry '("Elisabeth_NAM" "NAM"(((e) 0)((l i) 0)((z a) 0)((b eh t) 0))))
-
-
-
 ; patronymes
-
 (lex.add.entry '("vialatte_NAM" "NAM"(((v j a)0)((l a t)0))))
-
 (lex.add.entry '("vigier_NAM" "NAM"(((v i)0)((zh j e)0))))
 (lex.add.entry '("vigo_NAM" "NAM"(((v i)0)((g o)0))))
 (lex.add.entry '("albarello_NAM" "NAM"(((a l)0)((b a)0)((rh eh)0)((l o)0))))
-
 (lex.add.entry '("Beethoven_NAM" "NAM"(((b eh) 0)((t oh)0)((v eu n) 0))))
 (lex.add.entry '("Bernanos_NAM" "NAM"(((b eh rh) 0)((n a)0)((n oh s) 0))))
-
 (lex.add.entry '("Bossuet_NAM" "NAM"(((b oh) 0)((s "hw" eh) 0))))
 (lex.add.entry '("Broglie_NAM" "NAM"(((b rh eu j)0)((v eu n) 0))))
-(lex.add.entry '("brown_NAM" "NAM"(((b rh o n)0))))
 (lex.add.entry '("Caresche_NAM" "NAM"(((k a)0)((rh eh sh)0))))
 (lex.add.entry '("Carlos_NAM" "NAM"(((k a rh)0)((l o s)0))))
 (lex.add.entry '("Corre_NAM" "NAM"(((k oh rh)0))))

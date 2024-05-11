@@ -1,3 +1,4 @@
+
 (defvar lexdebuglevel 0)
 (require 'INST_LANG_util)
 ; lisp_onset_stop voir festvox/src/duration/logdurn.scm
@@ -285,7 +286,8 @@
            ;(format t "syls syllabify: %l\n" syls)
            )
     (set! result (reverse syls))
-    (if verbose_phoneutils (format t "\nINST_LANG_lex_syllabify_phstress %l: to %l\n" phones result))
+
+    (if verbose_phoneutils (format t "\nINST_LANG_lex_syllabify_phstress %l: \n \(lex.add.entry '\( \"XXX\" nil %l\)\)\n" phones result))
     result))
 
 
