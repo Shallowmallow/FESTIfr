@@ -284,7 +284,7 @@
            ;; (format t "leaf %s"  (na (item.first_leaf token))); n_est-ce
                ;; (format t "liste %l" (item.relations token)); Token
                (item.set_feat token "token_pos" "QTpos2")
-                (if (and (member_string suf1-1 (list "t" "s"))
+                (if (and (member_string suf1-1 (list "t" "s" "z"))
                          (member_string (string-car h2 ) (list "e" "i" "o" "y"))); ex: vous-y reviendrez / elles-même
                       (begin 
                         (set! result (append (INST_LANG_token_to_words token h1) 
