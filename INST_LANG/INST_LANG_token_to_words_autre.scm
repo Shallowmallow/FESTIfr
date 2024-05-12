@@ -299,7 +299,7 @@
             QTpos2_suite
                    (item.prev token)
                    (or (format t "QTpos2_suite ok1\n") t)
-                   (item.set_feat (item.prev token) "token_pos" "QTpos2")
+                   (string-equal (item.feat token "p.token_pos") "QTpos2")
                    )
                    
                 (set! QT "QTpos2_suite" )
